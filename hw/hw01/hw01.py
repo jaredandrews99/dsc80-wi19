@@ -337,7 +337,7 @@ def cancel_cnt_airport(fh):
     number of cancelled flights for each airport.
 
     :Example:
-    >>> cancels = cancel_cnt_airline(open('flights'))
+    >>> cancels = cancel_cnt_airport(open('flights.csv'))
     >>> isinstance(cancels, pd.Series)
     """
 
@@ -381,7 +381,7 @@ def check_for_graded_elements():
     for q, elts in GRADED_FUNCTIONS.items():
         for elt in elts:
             if elt not in globals():
-                stmt = "YOU CHANGED A QUESTIONTHAT SHOULDN'T CHANGE! \
+                stmt = "YOU CHANGED A QUESTION THAT SHOULDN'T CHANGE! \
                 In %s, part %s is missing" %(q, elt)
                 raise Exception(stmt)
 
