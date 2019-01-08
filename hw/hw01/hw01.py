@@ -213,38 +213,9 @@ def list_cnts(d):
     return ...
 
 
-# ---------------------------------------------------------------------
-# Question # 8 
-# ---------------------------------------------------------------------
-
-def parse_malformed(fh):
-    """
-    Parses and loads the malformed csv data into a 
-    properly formatted dataframe (as described in 
-    the question).
-
-    :param fh: file handle for the malformed csv-file.
-    :returns: a Pandas DataFrame of the data, 
-    as specificed in the question statement.
-
-    :Example:
-    >>> df = parse_malformed(open('malformed.csv'))
-    >>> list(df.columns) == ['first', 'last', 'weight', 'height', 'geo']
-    True
-    >>> df['last'].dtype
-    np.type('O')
-    >>> df['height'].dtype
-    np.type('float64')
-    >>> df['geo'].str.contains(',').all()
-    True
-    >>> len(df) == 100
-    True
-    """
-    
-    return ...
 
 # ---------------------------------------------------------------------
-# Question # 9 
+# Question # 8
 # ---------------------------------------------------------------------
 
 def airport_arrival_stats(aircode):
@@ -273,7 +244,7 @@ def airport_arrival_stats(aircode):
     return ...
 
 # ---------------------------------------------------------------------
-# Question # 10 
+# Question # 9 
 # ---------------------------------------------------------------------
 
 def late_airlines(aircode):
@@ -323,7 +294,7 @@ def all_late_flights(aircode):
 
 
 # ---------------------------------------------------------------------
-# Question # 11
+# Question # 10
 # ---------------------------------------------------------------------
 
 def cancel_cnt_airport(fh):
@@ -365,10 +336,9 @@ GRADED_FUNCTIONS = {
     'q05': ['evens_reversed'],
     'q06': ['last_chars'],
     'q07': ['cnt_values', 'list_cnts'],
-    'q08': ['parse_malformed'],
-    'q09': ['airport_arrival_stats'],
-    'q10': ['late_airlines', 'all_late_flights'],
-    'q11': ['cancel_cnt_airport']
+    'q08': ['airport_arrival_stats'],
+    'q09': ['late_airlines', 'all_late_flights'],
+    'q10': ['cancel_cnt_airport']
 }
 
 
