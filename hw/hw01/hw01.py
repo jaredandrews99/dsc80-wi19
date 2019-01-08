@@ -163,7 +163,7 @@ def last_chars(fh):
 
     :Example:
     >>> last_chars(open('chars.txt'))
-    hrg
+    'hrg'
     """
 
     return ...
