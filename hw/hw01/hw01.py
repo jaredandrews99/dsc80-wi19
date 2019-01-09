@@ -51,7 +51,7 @@ def median(nums):
     :Example:
     >>> median([6, 5, 4, 3, 2]) == 4
     True
-    >>> m = median([50, 20, 15, 40]) == 30
+    >>> median([50, 20, 15, 40]) == 30
     True
     """
 
