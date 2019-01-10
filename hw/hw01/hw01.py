@@ -187,8 +187,8 @@ def cnt_values(s):
 
     :Example:
     >>> s = 'In linen, moment'
-    >>> cnt_values(s)
-    {'in': 2, 'li': 1, 'ne': 1, 'en': 2, 'mo': 1, 'om': 1, 'me': 1, 'nt': 1}
+    >>> cnt_values(s) == {'in': 2, 'li': 1, 'ne': 1, 'en': 2, 'mo': 1, 'om': 1, 'me': 1, 'nt': 1}
+    True
     """
 
     return ...
@@ -205,9 +205,8 @@ def list_cnts(d):
     combinations in descending order.
 
     :Example:
-    >>> s = 'In linen, moment'
-    >>> list_cnts(cnt_values(s))
-    ['in', 'en', 'li', 'ne', 'mo']
+    >>> list_cnts(cnt_values('abab'))
+    ['ab', 'ba']
     """
 
     return ...
@@ -310,6 +309,7 @@ def cancel_cnt_airport(fh):
     :Example:
     >>> cancels = cancel_cnt_airport(open('flights.csv'))
     >>> isinstance(cancels, pd.Series)
+    True
     """
 
     return ...
