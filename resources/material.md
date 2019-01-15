@@ -11,4 +11,23 @@
   
 ## For Specific Topics:
 
-To come...
+### Python and Pandas
+
+* Basic Python references:
+  - [Idiomatic Python](https://docs.python-guide.org/writing/style/)
+
+* The Pandas [documentation](https://pandas.pydata.org/pandas-docs/stable/)
+  is invaluable!
+
+* Pandas from a performance perspective:
+  - [Intro to Numpy and Pandas](https://cloudxlab.com/blog/numpy-pandas-introduction/)
+  - [Optimizing Pandas for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
+  - [Pandas for Large Data](https://www.dataquest.io/blog/pandas-big-data/)
+
+### Messy and Missing Data
+
+* Messy Data and Null Values:
+  - [Quartz Big Data Guide](https://github.com/Quartz/bad-data-guide)
+  - [Types of Missingness: Wikipedia](https://en.wikipedia.org/wiki/Missing_data)
+  - [Missing Data (Introduction)](https://stefvanbuuren.name/fimd/sec-MCAR.html)
+
