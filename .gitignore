@@ -21,3 +21,11 @@ data
 *_soln*
 *_Solution*
 *_Sol*
+
+# tests
+*_test*
+*test_*
+*tests/*
+
+# WIP
+*-Copy*
