@@ -28,6 +28,10 @@
   - [Optimizing Pandas for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
   - [Pandas for Large Data](https://www.dataquest.io/blog/pandas-big-data/)
 
+* Want extra practice with Pandas?
+  - A quick search of 'basic pandas exercises' yields useful
+    results. [For Example](https://github.com/guipsamora/pandas_exercises)
+
 ### Understanding and Describing Data
 
 Generally, there is a lot of relevant material in: [DS100 Textbook,
