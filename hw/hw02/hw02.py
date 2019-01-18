@@ -193,7 +193,7 @@ def mean_by_airline_dow(flights):
 
     :Example:
     >>> flights = pd.read_csv('flights.csv', nrows=100)
-    >>> out = cnts_by_airline_dow(flights)
+    >>> out = mean_by_airline_dow(flights)
     >>> set(out.columns) == set(flights['AIRLINE'].unique())
     True
     >>> set(out.index) == set(flights['DAY_OF_WEEK'].unique())
@@ -245,12 +245,12 @@ def prop_delayed_by_airline_airport(jb_sw):
 
     :Example:
     >>> jb_sw = pd.read_csv('southwest_vs_jetblue.csv', nrows=100)
-    >>> out = prop_delayed_by_airline(jb_sw)
+    >>> out = prop_delayed_by_airline_airport(jb_sw)
     >>> isinstance(out, pd.DataFrame)
     True
-    >>> np.all(out >= 0) and np.all(out <= 1)
+    >>> np.all((out >= 0) | (out <= 1) | (out.isnull()))
     True
-    >>> len(out.columns) < jb_sw['ORIGIN_AIRPORT'].nunique()
+    >>> len(out.columns) == jb_sw['ORIGIN_AIRPORT'].nunique()
     True
     """
 
