@@ -45,9 +45,9 @@ def depart_arrive_stats(flights):
     >>> stats = depart_arrive_stats(pd.read_csv('flights.csv', nrows=100))
     >>> isinstance(stats, list)
     True
-    >>> np.all(np.array(stats) <= 1)
+    >>> (np.array(stats) <= 1).all().all()
     True
-    >>> np.all(np.array(stats) >= 0)
+    >>> (np.array(stats) >= 0).all().all()
     True
     """
 
@@ -74,7 +74,7 @@ def trip_breakdown(flights):
     >>> out = trip_breakdown(pd.read_csv('flights.csv', nrows=100))
     >>> 'TIME_AT_AIRPORT' in out.columns
     True
-    >>> np.all(out.dropna() <= 1) and np.all(out.drop('ARRIVAL_DELAY', axis=1).dropna() >= 0)
+    >>> (out.dropna() <= 1).all().all() and (out.drop('ARRIVAL_DELAY', axis=1).dropna() >= 0).all().all()
     True
     """
 
@@ -98,7 +98,7 @@ def prop_non_null(flights):
     >>> out = prop_non_null(pd.read_csv('flights.csv', nrows=100))
     >>> isinstance(out, pd.Series)
     True
-    >>> np.all(out <= 1) and np.all(out >= 0)
+    >>> (out <= 1).all().all() and (out >= 0).all().all()
     True
     """
 
@@ -171,7 +171,7 @@ def cnts_by_airline_dow(flights):
     True
     >>> set(out.index) == set(flights['DAY_OF_WEEK'].unique())
     True
-    >>> np.all(out >= 0)
+    >>> (out >= 0).all().all()
     True
     """
 
@@ -223,7 +223,7 @@ def prop_delayed_by_airline(jb_sw):
     >>> out = prop_delayed_by_airline(jb_sw)
     >>> isinstance(out, pd.DataFrame)
     True
-    >>> np.all(out >= 0) and np.all(out <= 1)
+    >>> (out >= 0).all().all() and (out <= 1).all().all()
     True
     >>> len(out.columns) == 1
     True
@@ -248,7 +248,7 @@ def prop_delayed_by_airline_airport(jb_sw):
     >>> out = prop_delayed_by_airline_airport(jb_sw)
     >>> isinstance(out, pd.DataFrame)
     True
-    >>> np.all((out >= 0) | (out <= 1) | (out.isnull()))
+    >>> ((out >= 0) | (out <= 1) | (out.isnull())).all().all()
     True
     >>> len(out.columns) == jb_sw['ORIGIN_AIRPORT'].nunique()
     True
