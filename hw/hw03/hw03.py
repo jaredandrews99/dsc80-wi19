@@ -68,7 +68,7 @@ def extract_and_create(hws):
     :return: dataframe with two columns that represent penalties for 20 and 50%
     >>> hws = read_all('timeData')
     >>> df = extract_and_create(hws)
-    >>> df.loc[0, "Penalty_20"]
+    >>> df.loc[:, "Penalty_20"].max()
     5
     """
     return ...
