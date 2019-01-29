@@ -46,8 +46,13 @@ Chapters 4/5/6](https://www.textbook.ds100.org/)
   - [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
   - [Simpson's Paradox: Titanic](https://select-statistics.co.uk/blog/hidden-data-and-surviving-a-sinking-ship-simpsons-paradox/)
     
-* Combining Data:
+* Smoothing:
+  - [Additive Smoothing](https://en.wikipedia.org/wiki/Additive_smoothing)
 
+* Null Imputation:
+  - [Flexible Imputation of Missing
+    Data](https://stefvanbuuren.name/fimd/) -- introduction only
+  - [Missing Data Imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) -- sections 25.0 - 25.3
 
 * Visualization:
 
