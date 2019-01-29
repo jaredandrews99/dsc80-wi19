@@ -10,5 +10,15 @@ div.rendered_html table {
 
 /* any output image */
 div.output_area img {
-    width: 50%;
+    width: 65%;
 }
+
+/* list container side-by-side*/
+.image-txt-container {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+}
+
+
+.reveal .slides { height: 100%; margin-bottom:50px}
