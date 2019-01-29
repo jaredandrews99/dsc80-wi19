@@ -13,8 +13,6 @@ __pycache__
 # notes
 *.org
 
-# data files
-data
 
 # solutions
 *_sol*
