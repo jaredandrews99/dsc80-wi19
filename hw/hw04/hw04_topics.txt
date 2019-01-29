@@ -1,0 +1,25 @@
+
+1. Various Pandas manipulations
+2. Datetime practice
+3. Practice smoothing techniques: Additive Smoothing,
+4. Practice smoothing techniques: Rolling Windows
+5.  Visualization question for practice (maybe two, plotting is tricky)
+
+6.  Outlier/Null Imputation (DONE)
+	- plain dataset, or even just a description of one or a few (mimic midterm)
+	- make them choose MAR/MCAR/NMAR
+	- make them choose "any valid statement" about missingness, among
+    a selection.
+7. Rolling windows and datetime (use SDPD clean data(?); datetime
+questions) (DONE)
+8. conditional additive smoothing. (DONE)
+	- added a plotting part of question
+	- need to update the (skipped) lecture notes; different formula
+9. SDPD (start with clean dataset): Null imputation implications (deal
+with MAR) (DONE)
+10. A join using time-deltas; analysis of what didn't join.
+
+
+pretty relevant: may use its ideas to cut some corners:
+
+https://github.com/DS-100/sp17-materials/blob/master/sp17/hw/hw3/hw3_solution.ipynb
