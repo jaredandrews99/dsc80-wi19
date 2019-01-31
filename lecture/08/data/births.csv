@@ -1,0 +1,1237 @@
+bwt,gestation,parity,age,mweight,mheight,edu,marital,smoke
+120,284.0,1,27.0,100.0,62.0,College,married,never
+113,282.0,2,33.0,135.0,64.0,College,married,never
+128,279.0,1,28.0,115.0,64.0,HS,married,smokes now
+123,,2,36.0,190.0,69.0,College,married,"once did, not now"
+108,282.0,1,23.0,125.0,67.0,College,married,smokes now
+136,286.0,4,25.0,93.0,62.0,HS,married,until current pregancy
+138,244.0,4,33.0,178.0,62.0,HS,married,never
+132,245.0,2,23.0,140.0,65.0,Some HS,married,never
+120,289.0,3,25.0,125.0,62.0,Some College,,never
+143,299.0,3,30.0,136.0,66.0,College,married,smokes now
+140,351.0,2,27.0,120.0,68.0,College,married,"once did, not now"
+144,282.0,4,32.0,124.0,64.0,HS,married,smokes now
+141,279.0,3,23.0,128.0,63.0,Some HS,married,smokes now
+110,281.0,5,36.0,99.0,61.0,College,married,smokes now
+114,273.0,3,30.0,154.0,63.0,HS,married,never
+115,285.0,4,38.0,130.0,63.0,HS,married,never
+92,255.0,3,25.0,125.0,65.0,,married,smokes now
+115,261.0,3,33.0,125.0,60.0,HS,married,smokes now
+144,261.0,2,33.0,170.0,68.0,HS,married,never
+119,288.0,3,43.0,142.0,66.0,HS,married,smokes now
+105,270.0,3,22.0,93.0,56.0,HS,married,never
+115,274.0,1,27.0,175.0,67.0,Some College,married,smokes now
+137,287.0,1,25.0,145.0,66.0,Some College,married,until current pregancy
+122,276.0,6,30.0,182.0,68.0,Some HS,married,never
+131,294.0,2,23.0,122.0,65.0,HS,married,until current pregancy
+103,261.0,6,27.0,112.0,65.0,Some HS,married,smokes now
+146,280.0,1,26.0,106.0,58.0,No HS,married,until current pregancy
+114,266.0,2,20.0,175.0,65.0,HS,married,smokes now
+125,292.0,3,32.0,125.0,65.0,HS,married,never
+114,274.0,2,28.0,132.0,66.0,College,married,smokes now
+122,270.0,2,26.0,105.0,61.0,HS,married,never
+93,278.0,3,34.0,146.0,61.0,Some HS,married,until current pregancy
+130,268.0,2,30.0,123.0,66.0,HS,married,"once did, not now"
+119,275.0,1,23.0,105.0,60.0,HS,married,never
+113,281.0,3,24.0,120.0,65.0,Some College,married,never
+134,283.0,1,22.0,130.0,67.0,HS,married,never
+107,279.0,1,24.0,115.0,63.0,College,married,"once did, not now"
+134,288.0,2,23.0,92.0,63.0,HS,married,smokes now
+122,267.0,1,27.0,101.0,65.0,Some College,married,smokes now
+128,282.0,6,31.0,,65.0,HS,married,never
+129,293.0,2,30.0,160.0,61.0,Some College,married,never
+110,278.0,3,23.0,177.0,63.0,Some College,married,never
+138,302.0,4,26.0,,,Some HS,married,smokes now
+111,270.0,4,27.0,119.0,61.0,Some HS,married,until current pregancy
+87,248.0,10,37.0,130.0,65.0,Some HS,married,smokes now
+143,274.0,3,27.0,110.0,63.0,Some College,married,smokes now
+155,294.0,6,32.0,150.0,66.0,HS,married,"once did, not now"
+110,272.0,2,25.0,90.0,60.0,Some HS,married,never
+122,275.0,1,26.0,147.0,66.0,College,married,never
+145,291.0,4,26.0,119.0,63.0,Some College,married,smokes now
+115,258.0,4,26.0,130.0,62.0,,married,never
+108,283.0,6,31.0,148.0,65.0,Some HS,married,smokes now
+102,282.0,1,28.0,110.0,61.0,College,married,never
+143,286.0,5,31.0,126.0,64.0,HS,married,never
+146,267.0,2,30.0,132.0,67.0,College,married,until current pregancy
+124,275.0,3,22.0,130.0,60.0,Some HS,married,never
+124,278.0,2,26.0,145.0,70.0,Some College,married,smokes now
+145,257.0,5,33.0,140.0,65.0,Some College,married,"once did, not now"
+106,273.0,2,28.0,116.0,60.0,No HS,married,never
+75,232.0,1,33.0,110.0,61.0,Some College,married,"once did, not now"
+107,273.0,1,24.0,96.0,61.0,HS,married,never
+124,288.0,1,22.0,118.0,67.0,Some College,married,never
+122,280.0,2,23.0,125.0,65.0,Some College,married,smokes now
+101,245.0,1,23.0,130.0,63.0,HS,married,smokes now
+128,283.0,4,28.0,125.0,63.0,HS,married,smokes now
+104,282.0,5,36.0,115.0,65.0,College,married,smokes now
+97,246.0,6,37.0,150.0,63.0,HS,married,never
+137,274.0,2,26.0,137.0,69.0,Some College,married,smokes now
+103,273.0,5,31.0,170.0,63.0,Some HS,married,smokes now
+142,276.0,5,38.0,170.0,63.0,Some HS,married,"once did, not now"
+130,289.0,1,27.0,130.0,66.0,College,married,never
+156,292.0,2,26.0,118.0,63.0,HS,married,never
+133,284.0,1,25.0,125.0,66.0,HS,married,smokes now
+120,274.0,3,24.0,120.0,62.0,Some College,married,never
+91,270.0,3,24.0,149.0,60.0,Trade,married,smokes now
+127,274.0,2,21.0,110.0,62.0,HS,married,never
+153,286.0,4,26.0,107.0,63.0,Some College,married,smokes now
+121,276.0,2,39.0,130.0,63.0,HS,married,never
+120,277.0,1,27.0,126.0,63.0,Some College,married,"once did, not now"
+99,272.0,5,27.0,103.0,62.0,HS,married,smokes now
+149,293.0,5,35.0,116.0,65.0,Some College,married,until current pregancy
+129,280.0,2,23.0,104.0,64.0,Some College,married,never
+139,292.0,2,25.0,135.0,68.0,College,married,"once did, not now"
+114,274.0,5,33.0,148.0,67.0,College,married,smokes now
+138,287.0,1,30.0,145.0,66.0,College,married,never
+129,274.0,2,29.0,,71.0,College,married,smokes now
+138,294.0,3,32.0,117.0,65.0,College,married,never
+131,296.0,7,37.0,143.0,63.0,College,married,never
+125,305.0,1,22.0,196.0,70.0,Trade,married,smokes now
+114,,1,24.0,113.0,67.0,Some College,married,smokes now
+128,281.0,10,33.0,117.0,59.0,HS,married,never
+134,268.0,2,28.0,112.0,62.0,College,married,never
+114,271.0,2,27.0,104.0,60.0,HS,married,never
+92,,2,31.0,130.0,67.0,College,married,"once did, not now"
+85,278.0,3,23.0,103.0,61.0,Some HS,married,smokes now
+135,282.0,1,22.0,100.0,64.0,HS,married,never
+87,255.0,1,28.0,100.0,61.0,Some College,married,smokes now
+125,302.0,2,37.0,162.0,62.0,Some College,married,never
+128,,2,35.0,110.0,62.0,College,married,"once did, not now"
+105,254.0,7,29.0,137.0,64.0,HS,married,until current pregancy
+120,279.0,2,27.0,121.0,60.0,Trade,married,smokes now
+119,274.0,3,33.0,120.0,64.0,College,married,never
+116,286.0,1,24.0,,61.0,No HS,married,never
+107,280.0,4,36.0,117.0,65.0,HS,married,smokes now
+119,273.0,1,24.0,108.0,61.0,HS,married,smokes now
+133,279.0,5,37.0,140.0,66.0,HS,married,until current pregancy
+155,287.0,2,33.0,143.0,66.0,College,married,never
+126,273.0,2,22.0,150.0,65.0,HS,married,never
+129,303.0,1,27.0,125.0,64.0,College,married,never
+137,274.0,4,29.0,154.0,65.0,Some HS,married,never
+103,269.0,1,26.0,,65.0,Trade,married,smokes now
+125,302.0,4,28.0,125.0,65.0,Some College,married,never
+91,255.0,1,19.0,136.0,67.0,Some HS,married,smokes now
+134,293.0,2,21.0,,65.0,No HS,married,never
+95,279.0,1,22.0,145.0,66.0,Some College,married,smokes now
+118,276.0,1,29.0,114.0,64.0,HS,married,until current pregancy
+141,278.0,8,33.0,109.0,66.0,Some HS,married,smokes now
+131,283.0,2,25.0,215.0,67.0,Some College,married,never
+121,264.0,6,32.0,145.0,66.0,Some College,married,"once did, not now"
+100,243.0,1,39.0,170.0,65.0,HS,married,smokes now
+131,288.0,3,24.0,103.0,61.0,HS,married,never
+118,284.0,1,26.0,133.0,66.0,HS,married,never
+152,288.0,3,35.0,130.0,67.0,Some College,married,never
+121,284.0,6,34.0,155.0,69.0,College,married,never
+117,276.0,2,31.0,150.0,69.0,College,married,never
+115,283.0,2,25.0,150.0,61.0,HS,married,smokes now
+112,277.0,3,23.0,110.0,65.0,Some College,married,until current pregancy
+94,267.0,3,30.0,120.0,62.0,Some College,married,smokes now
+109,272.0,2,35.0,154.0,66.0,HS,married,never
+132,225.0,4,28.0,148.0,67.0,HS,married,never
+117,278.0,2,25.0,103.0,62.0,Some College,married,never
+101,266.0,2,20.0,110.0,67.0,Some HS,married,smokes now
+112,294.0,1,25.0,125.0,64.0,HS,married,smokes now
+128,283.0,1,24.0,100.0,60.0,HS,married,never
+128,279.0,2,25.0,147.0,66.0,Some College,married,smokes now
+117,258.0,3,31.0,120.0,64.0,HS,married,never
+134,278.0,1,24.0,135.0,69.0,Trade,married,"once did, not now"
+127,284.0,1,28.0,145.0,65.0,HS,married,never
+93,269.0,2,21.0,104.0,65.0,Some HS,married,smokes now
+122,275.0,2,27.0,165.0,65.0,HS,married,never
+100,265.0,6,39.0,107.0,62.0,HS,married,smokes now
+147,293.0,3,32.0,123.0,65.0,Some College,married,until current pregancy
+120,299.0,2,25.0,110.0,65.0,Trade,married,"once did, not now"
+144,277.0,3,30.0,127.0,63.0,College,married,never
+105,268.0,5,32.0,115.0,61.0,Some College,legally separated,smokes now
+136,276.0,1,23.0,155.0,66.0,HS,married,never
+102,262.0,3,24.0,125.0,63.0,HS,married,never
+160,300.0,7,29.0,175.0,71.0,Some College,married,smokes now
+113,275.0,1,24.0,140.0,68.0,Trade,married,smokes now
+126,282.0,8,38.0,250.0,66.0,No HS,married,never
+126,271.0,2,29.0,148.0,68.0,College,married,never
+115,278.0,2,29.0,128.0,61.0,College,married,"once did, not now"
+127,336.0,6,29.0,,,,married,never
+119,284.0,1,20.0,132.0,66.0,HS,married,never
+129,,2,23.0,,,HS,married,smokes now
+123,318.0,2,21.0,152.0,64.0,Some HS,married,never
+118,282.0,4,22.0,135.0,68.0,Some HS,married,smokes now
+133,287.0,1,24.0,104.0,60.0,Some College,married,smokes now
+105,281.0,1,39.0,,61.0,College,married,never
+134,290.0,1,22.0,121.0,60.0,HS,married,never
+144,288.0,1,21.0,111.0,67.0,Some College,married,"once did, not now"
+111,273.0,4,43.0,138.0,62.0,No HS,married,never
+125,262.0,7,36.0,190.0,66.0,HS,married,never
+135,296.0,2,30.0,123.0,63.0,HS,married,never
+134,289.0,1,22.0,125.0,63.0,Some College,married,"once did, not now"
+116,289.0,1,22.0,160.0,65.0,HS,married,smokes now
+129,291.0,1,29.0,123.0,69.0,College,married,"once did, not now"
+113,301.0,4,26.0,105.0,67.0,HS,married,smokes now
+131,295.0,1,23.0,123.0,65.0,HS,married,smokes now
+126,293.0,1,29.0,110.0,59.0,Trade,married,
+121,272.0,1,22.0,109.0,62.0,HS,married,never
+121,271.0,3,25.0,118.0,68.0,Some College,married,smokes now
+138,287.0,1,24.0,115.0,65.0,Some College,married,never
+136,278.0,1,23.0,105.0,61.0,Some College,married,never
+120,279.0,3,30.0,131.0,66.0,Some College,married,never
+122,278.0,4,31.0,155.0,72.0,HS,married,smokes now
+134,267.0,3,30.0,170.0,66.0,Some College,married,never
+101,280.0,1,25.0,123.0,65.0,Some College,married,smokes now
+112,288.0,5,32.0,125.0,62.0,College,married,never
+132,290.0,2,25.0,120.0,64.0,Some College,married,until current pregancy
+136,285.0,1,23.0,175.0,62.0,HS,married,never
+113,277.0,4,23.0,192.0,65.0,Some HS,married,smokes now
+96,271.0,2,23.0,116.0,64.0,Some College,married,never
+124,277.0,3,29.0,220.0,63.0,HS,legally separated,never
+113,306.0,1,21.0,150.0,62.0,Some College,married,never
+131,286.0,3,34.0,,,HS,married,smokes now
+137,258.0,1,25.0,117.0,63.0,College,married,until current pregancy
+133,268.0,1,24.0,93.0,61.0,College,married,never
+107,244.0,1,20.0,97.0,58.0,HS,married,never
+96,265.0,4,28.0,135.0,59.0,HS,married,smokes now
+142,278.0,3,35.0,136.0,66.0,College,married,smokes now
+136,275.0,1,22.0,110.0,63.0,HS,married,until current pregancy
+75,239.0,3,26.0,124.0,63.0,HS,married,smokes now
+125,302.0,8,32.0,,61.0,HS,married,smokes now
+104,295.0,4,26.0,155.0,65.0,Some College,married,smokes now
+130,274.0,5,30.0,150.0,63.0,Some HS,married,never
+90,290.0,3,22.0,168.0,63.0,HS,married,"once did, not now"
+118,276.0,3,22.0,147.0,66.0,HS,married,smokes now
+123,320.0,2,22.0,117.0,66.0,Some College,married,"once did, not now"
+137,291.0,6,34.0,110.0,61.0,College,married,never
+101,268.0,2,19.0,140.0,63.0,Some HS,married,never
+142,275.0,3,25.0,132.0,64.0,HS,married,never
+98,282.0,1,20.0,97.0,63.0,Some HS,married,smokes now
+124,283.0,1,23.0,112.0,63.0,Some College,married,never
+151,310.0,1,21.0,,65.0,HS,married,never
+109,281.0,1,23.0,105.0,61.0,Some College,married,never
+150,285.0,3,22.0,110.0,61.0,Some HS,married,smokes now
+119,282.0,2,26.0,150.0,68.0,Some College,married,smokes now
+131,280.0,5,38.0,125.0,65.0,Some College,married,until current pregancy
+101,272.0,1,29.0,150.0,63.0,Some College,married,smokes now
+113,246.0,2,19.0,138.0,62.0,Some HS,married,smokes now
+127,270.0,3,25.0,150.0,62.0,College,married,never
+97,260.0,2,23.0,99.0,61.0,HS,married,smokes now
+117,282.0,4,28.0,115.0,64.0,Some College,married,never
+150,290.0,1,21.0,125.0,65.0,Some HS,married,never
+85,234.0,7,33.0,130.0,67.0,Some HS,married,never
+128,288.0,3,27.0,145.0,70.0,Some College,married,"once did, not now"
+105,233.0,4,34.0,130.0,61.0,Trade,married,never
+90,269.0,4,26.0,125.0,67.0,HS,married,
+115,274.0,1,22.0,130.0,65.0,HS,married,smokes now
+107,290.0,2,28.0,135.0,62.0,HS,married,until current pregancy
+121,275.0,1,24.0,121.0,63.0,Trade,married,smokes now
+119,286.0,1,20.0,180.0,64.0,HS,married,never
+117,275.0,2,20.0,145.0,64.0,Some HS,married,smokes now
+134,264.0,1,26.0,136.0,68.0,College,married,never
+117,288.0,7,35.0,142.0,65.0,HS,married,never
+115,268.0,3,28.0,128.0,66.0,HS,married,never
+110,254.0,2,23.0,120.0,63.0,HS,married,smokes now
+130,282.0,3,21.0,106.0,62.0,Trade,married,smokes now
+140,274.0,2,23.0,106.0,63.0,HS,married,smokes now
+111,284.0,1,22.0,,,HS,married,smokes now
+93,249.0,3,33.0,117.0,66.0,No HS,married,never
+154,292.0,1,42.0,116.0,65.0,Trade,married,smokes now
+125,290.0,1,19.0,127.0,64.0,Some HS,married,until current pregancy
+93,318.0,7,31.0,135.0,66.0,No HS,married,never
+122,277.0,7,33.0,135.0,63.0,Some College,married,smokes now
+129,267.0,3,22.0,160.0,63.0,No HS,married,never
+126,276.0,1,23.0,120.0,63.0,Some College,married,never
+85,274.0,1,24.0,155.0,68.0,Some College,married,never
+173,293.0,6,30.0,110.0,63.0,HS,married,never
+144,329.0,3,22.0,190.0,65.0,HS,married,smokes now
+114,278.0,2,25.0,140.0,65.0,Some College,married,smokes now
+111,,8,27.0,105.0,63.0,Some HS,married,smokes now
+154,287.0,2,27.0,125.0,65.0,Trade,married,smokes now
+150,274.0,1,25.0,117.0,67.0,HS,married,smokes now
+111,278.0,1,21.0,125.0,62.0,HS,married,never
+126,277.0,2,32.0,128.0,66.0,Some College,married,never
+122,261.0,3,28.0,124.0,65.0,HS,married,"once did, not now"
+141,282.0,3,24.0,169.0,68.0,HS,married,"once did, not now"
+142,274.0,3,24.0,125.0,63.0,Some HS,married,never
+99,262.0,3,38.0,110.0,59.0,Some HS,married,smokes now
+113,286.0,2,23.0,105.0,63.0,HS,married,never
+149,282.0,1,21.0,110.0,61.0,HS,married,never
+117,328.0,1,29.0,125.0,65.0,HS,married,smokes now
+130,274.0,4,26.0,185.0,64.0,Trade,married,
+106,275.0,3,31.0,142.0,65.0,Some College,married,
+128,290.0,1,22.0,118.0,64.0,Some College,married,"once did, not now"
+125,286.0,1,21.0,139.0,64.0,HS,married,never
+114,290.0,3,30.0,160.0,66.0,HS,married,never
+130,285.0,1,23.0,128.0,63.0,Some College,married,smokes now
+116,148.0,7,28.0,135.0,66.0,Some HS,,never
+81,256.0,4,30.0,148.0,64.0,Some HS,married,smokes now
+124,287.0,3,27.0,105.0,62.0,Some HS,married,smokes now
+125,292.0,1,22.0,122.0,65.0,Some College,married,never
+110,262.0,1,25.0,140.0,66.0,College,married,"once did, not now"
+125,279.0,1,23.0,104.0,63.0,HS,married,smokes now
+138,294.0,1,40.0,125.0,64.0,HS,married,"once did, not now"
+142,284.0,5,39.0,132.0,66.0,HS,married,never
+115,278.0,3,23.0,102.0,60.0,HS,married,smokes now
+102,280.0,3,38.0,140.0,67.0,Some College,married,"once did, not now"
+140,294.0,2,25.0,103.0,61.0,Some College,married,never
+133,276.0,0,22.0,119.0,63.0,Some College,married,never
+127,290.0,3,35.0,165.0,66.0,HS,married,until current pregancy
+104,274.0,0,20.0,115.0,62.0,HS,married,smokes now
+119,275.0,4,42.0,156.0,67.0,Some College,married,smokes now
+152,301.0,2,29.0,150.0,65.0,Some HS,married,never
+123,284.0,0,20.0,120.0,65.0,Some College,married,smokes now
+143,273.0,3,19.0,135.0,66.0,HS,married,never
+131,308.0,1,40.0,160.0,65.0,Some College,married,"once did, not now"
+141,319.0,0,20.0,140.0,67.0,HS,married,smokes now
+129,277.0,1,30.0,142.0,66.0,Some College,married,smokes now
+113,282.0,0,36.0,140.0,59.0,HS,married,"once did, not now"
+119,292.0,2,33.0,118.0,62.0,HS,married,smokes now
+109,295.0,0,23.0,103.0,63.0,HS,married,smokes now
+104,280.0,0,27.0,146.0,68.0,College,married,smokes now
+131,282.0,0,21.0,126.0,66.0,Some College,married,never
+110,293.0,0,28.0,135.0,64.0,Some College,married,smokes now
+148,279.0,3,27.0,189.0,71.0,Some College,married,never
+137,283.0,0,20.0,157.0,65.0,HS,married,never
+117,283.0,2,27.0,108.0,63.0,Some College,married,never
+115,302.0,0,22.0,135.0,67.0,HS,married,never
+98,280.0,2,35.0,122.0,64.0,HS,married,smokes now
+136,303.0,0,20.0,148.0,68.0,HS,married,smokes now
+121,276.0,0,23.0,152.0,71.0,College,married,smokes now
+132,285.0,0,25.0,140.0,63.0,Some College,married,never
+91,264.0,2,36.0,100.0,60.0,Trade,married,smokes now
+119,294.0,1,34.0,105.0,59.0,Trade,married,until current pregancy
+85,273.0,5,26.0,105.0,60.0,Some HS,legally separated,smokes now
+106,271.0,0,26.0,110.0,61.0,College,married,smokes now
+132,284.0,2,29.0,122.0,64.0,College,married,"once did, not now"
+80,266.0,0,25.0,125.0,62.0,HS,married,never
+109,286.0,1,24.0,125.0,64.0,HS,married,smokes now
+111,306.0,2,27.0,102.0,61.0,Some College,married,"once did, not now"
+143,292.0,0,21.0,125.0,65.0,Trade,married,until current pregancy
+136,290.0,1,26.0,135.0,66.0,Some College,married,until current pregancy
+110,285.0,0,19.0,130.0,64.0,HS,never married,"once did, not now"
+98,257.0,2,29.0,130.0,66.0,HS,married,smokes now
+108,305.0,0,24.0,112.0,65.0,Some College,married,never
+101,295.0,1,18.0,145.0,62.0,Some HS,married,smokes now
+71,281.0,1,32.0,117.0,60.0,Some College,married,smokes now
+124,292.0,2,29.0,176.0,68.0,Trade,married,smokes now
+93,256.0,3,34.0,,66.0,Trade,married,smokes now
+106,276.0,3,30.0,130.0,66.0,Some College,married,"once did, not now"
+101,278.0,1,25.0,112.0,62.0,HS,married,smokes now
+100,277.0,2,31.0,100.0,62.0,HS,married,smokes now
+104,269.0,4,35.0,110.0,63.0,HS,married,smokes now
+117,270.0,3,24.0,135.0,67.0,HS,married,smokes now
+117,267.0,4,29.0,120.0,65.0,HS,married,smokes now
+149,279.0,1,25.0,135.0,67.0,HS,married,never
+135,284.0,1,25.0,123.0,66.0,College,married,never
+110,283.0,0,21.0,129.0,66.0,HS,married,until current pregancy
+121,276.0,3,31.0,130.0,67.0,College,married,never
+142,285.0,0,24.0,136.0,66.0,Trade,married,never
+104,260.0,1,33.0,145.0,64.0,HS,married,never
+138,296.0,1,34.0,120.0,66.0,College,married,never
+112,278.0,0,21.0,120.0,63.0,College,married,never
+117,293.0,3,39.0,120.0,60.0,Some HS,married,smokes now
+109,282.0,1,25.0,106.0,62.0,College,married,smokes now
+131,266.0,0,28.0,135.0,67.0,College,married,never
+120,273.0,1,29.0,130.0,64.0,College,married,smokes now
+116,270.0,1,29.0,132.0,63.0,College,married,never
+140,290.0,2,23.0,110.0,65.0,Some College,married,"once did, not now"
+103,273.0,0,22.0,110.0,64.0,HS,married,smokes now
+120,279.0,0,23.0,135.0,67.0,College,married,"once did, not now"
+139,260.0,0,32.0,127.0,64.0,HS,married,never
+123,254.0,1,26.0,130.0,62.0,College,married,smokes now
+104,280.0,0,23.0,107.0,64.0,HS,married,smokes now
+131,283.0,2,31.0,,,Some College,married,never
+111,270.0,1,22.0,103.0,59.0,Some College,married,never
+122,277.0,5,32.0,157.0,63.0,Some College,married,smokes now
+116,271.0,0,30.0,144.0,67.0,College,married,smokes now
+129,277.0,1,27.0,130.0,68.0,College,married,smokes now
+133,292.0,2,30.0,112.0,65.0,HS,married,smokes now
+110,277.0,1,25.0,130.0,61.0,Some HS,married,"once did, not now"
+105,276.0,2,22.0,130.0,67.0,Trade,married,never
+93,246.0,3,37.0,130.0,65.0,HS,married,never
+122,281.0,3,42.0,103.0,63.0,Trade,married,smokes now
+133,293.0,2,23.0,110.0,64.0,Trade,married,smokes now
+130,296.0,0,22.0,117.0,66.0,College,married,smokes now
+104,307.0,1,24.0,122.0,59.0,Some College,married,never
+106,278.0,3,31.0,110.0,65.0,College,married,smokes now
+120,281.0,2,33.0,113.0,63.0,Trade,married,never
+121,284.0,1,27.0,,63.0,Some HS,married,smokes now
+118,276.0,0,18.0,128.0,63.0,HS,married,until current pregancy
+140,290.0,0,19.0,132.0,67.0,HS,married,smokes now
+114,268.0,2,22.0,104.0,64.0,HS,married,never
+116,280.0,8,40.0,159.0,62.0,Some HS,married,never
+129,284.0,2,24.0,115.0,64.0,Some College,married,never
+120,286.0,2,22.0,115.0,62.0,HS,married,smokes now
+127,281.0,1,24.0,112.0,63.0,Some College,married,smokes now
+107,278.0,0,27.0,135.0,,HS,married,never
+71,234.0,4,32.0,110.0,64.0,HS,married,smokes now
+88,274.0,4,30.0,130.0,66.0,HS,married,never
+107,300.0,1,19.0,,,Some HS,married,smokes now
+122,286.0,1,23.0,145.0,64.0,Some College,married,never
+106,302.0,0,19.0,147.0,66.0,HS,married,never
+135,285.0,3,30.0,130.0,66.0,Some College,married,never
+107,290.0,3,26.0,112.0,63.0,Trade,married,"once did, not now"
+129,294.0,3,32.0,170.0,62.0,HS,married,smokes now
+126,274.0,4,39.0,122.0,62.0,College,married,never
+116,293.0,0,26.0,125.0,64.0,College,married,never
+124,294.0,1,26.0,122.0,62.0,College,married,until current pregancy
+123,281.0,1,23.0,136.0,68.0,Some HS,married,never
+145,315.0,4,39.0,143.0,67.0,HS,married,smokes now
+102,278.0,1,27.0,135.0,67.0,HS,married,smokes now
+129,293.0,3,30.0,130.0,65.0,HS,married,smokes now
+98,276.0,0,22.0,121.0,61.0,Some College,married,"once did, not now"
+110,272.0,1,28.0,108.0,60.0,,married,never
+135,282.0,1,24.0,128.0,67.0,College,married,smokes now
+101,278.0,0,20.0,105.0,62.0,Some College,married,never
+96,266.0,1,26.0,125.0,65.0,College,married,never
+104,276.0,0,18.0,109.0,60.0,HS,married,smokes now
+100,249.0,3,24.0,100.0,67.0,Some College,married,never
+154,292.0,1,40.0,145.0,66.0,No HS,married,"once did, not now"
+127,293.0,1,31.0,137.0,67.0,College,married,never
+126,288.0,3,31.0,150.0,62.0,College,married,never
+126,282.0,0,23.0,115.0,66.0,Some College,married,smokes now
+127,279.0,3,26.0,155.0,67.0,Trade,married,smokes now
+98,275.0,1,25.0,112.0,65.0,College,married,smokes now
+127,288.0,0,21.0,130.0,66.0,HS,married,never
+129,299.0,1,22.0,145.0,68.0,Some College,married,never
+131,292.0,0,22.0,124.0,64.0,Some College,married,smokes now
+132,289.0,0,19.0,145.0,66.0,Some College,married,never
+127,280.0,1,27.0,118.0,62.0,HS,married,until current pregancy
+99,313.0,0,34.0,100.0,59.0,Some College,married,smokes now
+115,290.0,1,30.0,140.0,64.0,College,married,smokes now
+145,290.0,0,24.0,125.0,67.0,College,married,"once did, not now"
+102,249.0,0,23.0,134.0,67.0,HS,married,smokes now
+136,299.0,2,29.0,115.0,64.0,College,married,never
+121,286.0,0,,,,Some College,married,until current pregancy
+121,282.0,2,22.0,133.0,66.0,Some HS,married,never
+120,286.0,1,25.0,105.0,62.0,Some College,married,never
+118,261.0,1,26.0,104.0,60.0,HS,married,never
+127,304.0,0,26.0,105.0,62.0,College,married,never
+132,281.0,0,24.0,117.0,63.0,College,married,never
+102,258.0,0,22.0,135.0,65.0,Some College,married,never
+143,279.0,7,39.0,129.0,65.0,Trade,married,smokes now
+118,277.0,2,25.0,120.0,62.0,Trade,married,never
+102,286.0,0,22.0,140.0,64.0,HS,married,until current pregancy
+163,280.0,6,35.0,139.0,69.0,Some College,married,never
+132,294.0,1,32.0,116.0,64.0,College,married,"once did, not now"
+116,276.0,3,33.0,180.0,61.0,HS,married,never
+138,288.0,0,19.0,124.0,66.0,Some College,married,never
+139,279.0,1,20.0,143.0,64.0,HS,married,never
+132,298.0,0,23.0,137.0,61.0,HS,married,until current pregancy
+87,282.0,2,27.0,104.0,63.0,Trade,married,smokes now
+131,297.0,3,30.0,132.0,67.0,College,married,never
+130,282.0,1,26.0,147.0,67.0,College,married,smokes now
+123,290.0,2,28.0,107.0,66.0,Some College,legally separated,smokes now
+115,276.0,0,18.0,110.0,63.0,HS,married,never
+116,272.0,5,27.0,130.0,64.0,HS,married,smokes now
+119,286.0,0,20.0,130.0,67.0,HS,married,never
+125,279.0,0,19.0,135.0,67.0,Some College,married,until current pregancy
+144,282.0,1,33.0,155.0,66.0,Some College,married,smokes now
+123,269.0,2,26.0,132.0,67.0,College,married,never
+120,276.0,2,23.0,114.0,66.0,Some College,married,never
+140,251.0,4,28.0,210.0,63.0,Some College,married,never
+120,271.0,0,17.0,142.0,64.0,Some HS,married,smokes now
+116,272.0,4,,138.0,63.0,Trade,married,smokes now
+120,289.0,0,31.0,102.0,59.0,College,married,never
+146,280.0,1,23.0,145.0,61.0,HS,married,never
+112,283.0,0,21.0,102.0,62.0,Trade,married,smokes now
+115,269.0,2,30.0,115.0,62.0,HS,married,
+132,278.0,2,20.0,150.0,64.0,Some HS,married,smokes now
+146,263.0,10,39.0,110.0,53.0,No HS,married,smokes now
+122,275.0,2,30.0,140.0,68.0,College,married,never
+128,292.0,1,32.0,130.0,66.0,HS,married,never
+119,277.0,3,24.0,120.0,63.0,Some College,married,smokes now
+135,278.0,1,27.0,148.0,66.0,Some HS,married,never
+116,315.0,3,26.0,,,HS,married,never
+129,235.0,3,24.0,135.0,66.0,Some College,married,never
+116,293.0,0,28.0,108.0,62.0,College,married,"once did, not now"
+100,275.0,4,27.0,111.0,64.0,Some College,married,smokes now
+118,280.0,2,27.0,,,Some College,married,smokes now
+138,257.0,1,38.0,138.0,67.0,HS,married,never
+123,282.0,2,22.0,130.0,65.0,Some College,married,never
+113,288.0,0,21.0,120.0,61.0,HS,married,until current pregancy
+129,280.0,0,24.0,140.0,65.0,HS,married,smokes now
+122,280.0,2,24.0,127.0,67.0,Some College,married,smokes now
+132,281.0,0,21.0,140.0,67.0,Some College,married,never
+120,269.0,0,40.0,130.0,63.0,College,married,never
+114,283.0,0,20.0,115.0,65.0,Some College,married,never
+130,280.0,2,29.0,135.0,66.0,Some HS,married,never
+117,286.0,2,32.0,127.0,66.0,College,married,smokes now
+142,285.0,2,33.0,124.0,63.0,Trade,married,"once did, not now"
+144,273.0,2,27.0,118.0,62.0,Some HS,married,smokes now
+127,262.0,0,32.0,125.0,64.0,Trade,married,never
+115,270.0,2,25.0,165.0,67.0,HS,married,smokes now
+85,258.0,1,41.0,137.0,67.0,Trade,married,never
+99,274.0,3,28.0,118.0,66.0,Trade,married,smokes now
+123,323.0,0,17.0,140.0,64.0,Some HS,married,never
+112,281.0,0,23.0,150.0,61.0,HS,married,never
+68,223.0,1,32.0,149.0,66.0,No HS,married,smokes now
+102,283.0,0,19.0,127.0,65.0,HS,married,smokes now
+109,273.0,9,37.0,138.0,65.0,Some HS,married,smokes now
+102,267.0,0,25.0,93.0,60.0,College,married,smokes now
+99,275.0,2,23.0,125.0,61.0,Some College,married,smokes now
+78,256.0,0,29.0,123.0,65.0,College,married,never
+128,284.0,0,19.0,111.0,66.0,HS,married,smokes now
+107,303.0,0,25.0,133.0,67.0,Some College,married,never
+136,295.0,4,23.0,147.0,64.0,Some HS,married,never
+101,278.0,2,27.0,99.0,61.0,HS,married,smokes now
+100,275.0,0,25.0,125.0,64.0,HS,married,never
+109,272.0,5,41.0,154.0,66.0,College,married,smokes now
+117,281.0,0,21.0,141.0,70.0,Some College,married,smokes now
+88,252.0,0,21.0,115.0,60.0,Some College,married,smokes now
+95,270.0,5,35.0,135.0,65.0,Trade,married,smokes now
+119,280.0,0,25.0,,61.0,HS,married,smokes now
+123,272.0,8,28.0,,,Some HS,married,never
+127,291.0,0,24.0,135.0,66.0,Trade,married,smokes now
+107,293.0,2,20.0,155.0,65.0,Some HS,married,smokes now
+124,291.0,3,26.0,,66.0,Some HS,divorced,never
+126,262.0,5,37.0,135.0,66.0,HS,married,smokes now
+98,278.0,4,27.0,110.0,63.0,Some College,married,smokes now
+96,241.0,1,23.0,130.0,64.0,HS,married,smokes now
+104,282.0,2,24.0,144.0,63.0,HS,married,until current pregancy
+133,273.0,0,33.0,135.0,63.0,HS,married,never
+93,267.0,1,25.0,135.0,63.0,College,married,smokes now
+101,280.0,0,24.0,123.0,65.0,College,married,smokes now
+118,277.0,1,21.0,155.0,64.0,Some HS,married,"once did, not now"
+130,289.0,1,21.0,130.0,61.0,Trade,married,smokes now
+125,288.0,2,22.0,128.0,63.0,Some HS,married,smokes now
+140,291.0,0,19.0,122.0,65.0,HS,married,"once did, not now"
+115,290.0,0,19.0,118.0,65.0,Some College,married,never
+130,293.0,2,26.0,123.0,63.0,HS,married,never
+114,277.0,0,31.0,125.0,64.0,College,married,never
+105,278.0,1,21.0,120.0,64.0,Some College,married,"once did, not now"
+101,289.0,0,31.0,125.0,60.0,College,married,never
+132,286.0,2,26.0,122.0,67.0,Some College,married,smokes now
+112,252.0,3,37.0,162.0,64.0,HS,married,"once did, not now"
+69,232.0,2,31.0,103.0,59.0,Some College,married,smokes now
+114,264.0,2,26.0,110.0,63.0,College,married,smokes now
+123,267.0,2,29.0,111.0,63.0,College,married,smokes now
+129,284.0,0,20.0,130.0,66.0,HS,married,smokes now
+114,283.0,0,15.0,117.0,64.0,Some HS,married,smokes now
+115,290.0,6,31.0,95.0,62.0,College,married,never
+98,272.0,0,35.0,129.0,64.0,Some College,legally separated,never
+128,283.0,2,27.0,126.0,67.0,Some College,married,never
+119,279.0,0,20.0,,,Some College,married,smokes now
+119,271.0,2,28.0,175.0,64.0,College,married,smokes now
+154,288.0,3,25.0,147.0,65.0,Trade,married,never
+127,247.0,0,21.0,140.0,63.0,HS,married,never
+131,263.0,5,29.0,180.0,64.0,Some HS,married,smokes now
+129,288.0,2,28.0,102.0,59.0,College,married,never
+114,286.0,0,22.0,116.0,64.0,Some College,married,smokes now
+110,280.0,1,29.0,110.0,62.0,Trade,married,smokes now
+103,268.0,3,31.0,150.0,64.0,HS,married,smokes now
+117,287.0,1,20.0,115.0,65.0,HS,married,smokes now
+138,282.0,1,25.0,120.0,64.0,HS,married,"once did, not now"
+126,280.0,1,24.0,147.0,66.0,Some College,married,smokes now
+124,271.0,1,23.0,145.0,66.0,Some College,married,never
+111,284.0,1,34.0,110.0,62.0,Trade,married,never
+132,282.0,1,28.0,200.0,67.0,College,married,smokes now
+103,240.0,1,26.0,140.0,65.0,HS,married,"once did, not now"
+158,285.0,2,28.0,130.0,62.0,HS,married,never
+146,277.0,3,32.0,,,Some College,married,never
+101,286.0,0,21.0,117.0,64.0,HS,married,smokes now
+132,290.0,2,26.0,125.0,66.0,HS,married,until current pregancy
+114,293.0,0,20.0,180.0,66.0,HS,married,smokes now
+71,277.0,1,40.0,135.0,69.0,College,married,never
+116,282.0,2,19.0,120.0,64.0,HS,married,never
+108,271.0,2,19.0,109.0,60.0,Some HS,married,smokes now
+123,298.0,4,25.0,113.0,64.0,HS,married,smokes now
+129,289.0,3,37.0,132.0,63.0,HS,married,never
+134,282.0,1,24.0,110.0,62.0,HS,married,never
+113,298.0,2,30.0,124.0,60.0,HS,married,smokes now
+123,277.0,0,20.0,160.0,65.0,HS,married,never
+147,277.0,1,30.0,160.0,68.0,College,married,"once did, not now"
+121,270.0,0,20.0,103.0,62.0,Some College,married,until current pregancy
+125,284.0,0,19.0,130.0,67.0,HS,married,never
+115,277.0,0,25.0,128.0,66.0,HS,married,never
+101,289.0,5,27.0,96.0,59.0,Some College,married,never
+93,271.0,2,30.0,127.0,65.0,Some College,married,smokes now
+109,275.0,3,33.0,120.0,66.0,Some College,married,"once did, not now"
+115,276.0,0,23.0,106.0,60.0,Some College,married,never
+130,293.0,0,23.0,122.0,65.0,HS,married,smokes now
+123,278.0,2,21.0,89.0,61.0,Some HS,married,until current pregancy
+111,300.0,1,20.0,108.0,64.0,HS,married,smokes now
+97,279.0,0,24.0,138.0,64.0,Some HS,married,smokes now
+122,292.0,0,25.0,125.0,65.0,College,married,never
+124,300.0,3,28.0,95.0,63.0,Some HS,married,never
+129,276.0,3,26.0,145.0,66.0,HS,married,never
+124,290.0,1,26.0,140.0,59.0,Some College,married,"once did, not now"
+107,280.0,1,20.0,107.0,60.0,Some College,married,smokes now
+142,273.0,0,22.0,125.0,62.0,HS,married,until current pregancy
+129,287.0,0,29.0,135.0,66.0,HS,married,never
+174,281.0,3,37.0,155.0,67.0,Some College,married,never
+105,264.0,5,30.0,105.0,65.0,Some College,legally separated,smokes now
+103,291.0,0,26.0,102.0,63.0,College,married,never
+124,285.0,0,27.0,114.0,63.0,Some College,married,never
+105,265.0,6,43.0,124.0,65.0,College,married,"once did, not now"
+133,275.0,7,36.0,137.0,65.0,Some HS,married,smokes now
+161,302.0,0,22.0,170.0,70.0,Some College,married,smokes now
+105,260.0,3,23.0,197.0,64.0,Some HS,married,never
+108,281.0,8,41.0,171.0,66.0,Some HS,married,until current pregancy
+153,297.0,1,27.0,145.0,66.0,HS,married,never
+133,280.0,0,25.0,130.0,61.0,College,married,never
+115,269.0,4,41.0,165.0,63.0,HS,legally separated,smokes now
+127,254.0,1,27.0,146.0,67.0,HS,divorced,smokes now
+128,271.0,2,41.0,135.0,65.0,HS,married,smokes now
+117,265.0,2,40.0,134.0,68.0,Some College,married,smokes now
+123,274.0,2,23.0,135.0,66.0,Some College,married,never
+119,288.0,0,22.0,132.0,64.0,HS,married,smokes now
+141,284.0,0,17.0,105.0,64.0,Some HS,married,until current pregancy
+91,260.0,1,26.0,110.0,62.0,HS,married,smokes now
+116,291.0,1,29.0,133.0,65.0,Some College,married,smokes now
+116,255.0,3,24.0,132.0,65.0,HS,married,never
+121,273.0,3,32.0,112.0,64.0,College,married,never
+111,274.0,5,36.0,159.0,67.0,HS,married,never
+102,257.0,1,25.0,135.0,66.0,Some HS,married,never
+118,283.0,1,24.0,150.0,65.0,HS,married,never
+126,294.0,0,22.0,125.0,65.0,Some College,married,smokes now
+98,286.0,2,31.0,105.0,62.0,HS,married,smokes now
+131,288.0,0,28.0,125.0,65.0,HS,married,never
+115,278.0,1,21.0,113.0,60.0,HS,married,never
+103,281.0,0,22.0,98.0,59.0,HS,married,smokes now
+147,301.0,3,26.0,130.0,65.0,College,married,until current pregancy
+123,308.0,0,19.0,135.0,65.0,HS,married,until current pregancy
+125,283.0,1,22.0,119.0,65.0,Some College,married,never
+117,270.0,2,30.0,130.0,67.0,Some HS,married,smokes now
+99,268.0,4,29.0,150.0,71.0,Some College,married,"once did, not now"
+115,283.0,1,31.0,127.0,66.0,Trade,married,smokes now
+116,265.0,11,36.0,120.0,63.0,Some HS,married,never
+118,297.0,1,35.0,140.0,68.0,HS,married,smokes now
+170,303.0,0,21.0,129.0,64.0,Some College,married,"once did, not now"
+104,270.0,1,25.0,110.0,61.0,Some HS,married,never
+108,269.0,0,20.0,114.0,62.0,Some HS,married,never
+144,289.0,0,17.0,130.0,69.0,HS,married,smokes now
+99,250.0,0,26.0,115.0,66.0,College,married,never
+97,263.0,0,25.0,107.0,63.0,Some College,married,never
+142,284.0,5,37.0,155.0,68.0,Some HS,married,
+85,270.0,0,19.0,118.0,63.0,HS,married,smokes now
+130,285.0,0,24.0,126.0,66.0,College,married,smokes now
+117,275.0,3,22.0,115.0,62.0,Some HS,married,smokes now
+109,302.0,1,24.0,110.0,64.0,College,married,until current pregancy
+147,285.0,2,24.0,137.0,64.0,College,married,until current pregancy
+105,281.0,0,23.0,115.0,64.0,College,married,until current pregancy
+135,278.0,0,27.0,139.0,68.0,HS,married,smokes now
+115,273.0,0,23.0,215.0,67.0,HS,married,smokes now
+123,280.0,2,23.0,140.0,65.0,Some HS,married,smokes now
+105,274.0,0,26.0,100.0,61.0,College,married,never
+154,271.0,6,36.0,160.0,69.0,HS,married,smokes now
+110,276.0,2,25.0,107.0,63.0,Some College,married,smokes now
+119,285.0,0,26.0,108.0,62.0,Some College,married,never
+103,292.0,0,28.0,132.0,62.0,College,married,never
+117,272.0,1,25.0,116.0,64.0,HS,married,never
+120,289.0,2,23.0,165.0,69.0,HS,married,never
+145,278.0,3,24.0,109.0,62.0,HS,married,until current pregancy
+104,271.0,2,20.0,98.0,62.0,HS,married,smokes now
+123,268.0,0,18.0,110.0,62.0,Some HS,married,smokes now
+124,272.0,2,27.0,110.0,62.0,HS,married,never
+129,275.0,1,26.0,115.0,64.0,College,married,smokes now
+91,248.0,9,33.0,202.0,63.0,Some College,married,until current pregancy
+109,295.0,5,32.0,135.0,61.0,Some HS,married,never
+108,268.0,2,22.0,112.0,58.0,HS,married,smokes now
+79,268.0,1,36.0,108.0,61.0,HS,married,never
+133,301.0,1,23.0,108.0,62.0,HS,married,"once did, not now"
+114,309.0,0,27.0,118.0,62.0,No HS,married,never
+128,273.0,4,34.0,125.0,61.0,College,married,never
+129,280.0,0,24.0,126.0,65.0,College,married,never
+97,234.0,0,26.0,112.0,65.0,College,married,never
+103,276.0,0,21.0,130.0,62.0,HS,married,smokes now
+176,293.0,0,19.0,180.0,68.0,Some College,married,never
+143,294.0,6,44.0,145.0,65.0,College,married,"once did, not now"
+127,292.0,0,21.0,130.0,68.0,Some College,married,smokes now
+107,256.0,1,28.0,90.0,59.0,Some HS,married,smokes now
+113,268.0,4,31.0,100.0,62.0,Some HS,married,never
+106,279.0,0,21.0,118.0,62.0,HS,married,smokes now
+152,285.0,2,24.0,120.0,61.0,HS,married,smokes now
+150,275.0,4,29.0,145.0,65.0,Some HS,married,until current pregancy
+136,278.0,4,35.0,118.0,64.0,Some College,married,smokes now
+151,298.0,3,37.0,135.0,64.0,HS,married,
+124,279.0,5,35.0,129.0,66.0,Some HS,married,never
+123,284.0,0,18.0,112.0,64.0,Some HS,married,smokes now
+119,288.0,1,37.0,128.0,62.0,HS,married,never
+122,291.0,5,40.0,155.0,64.0,Some College,married,never
+112,250.0,1,34.0,124.0,67.0,College,married,until current pregancy
+93,270.0,5,25.0,125.0,64.0,Some HS,married,smokes now
+109,271.0,3,27.0,,61.0,Some HS,married,smokes now
+136,274.0,0,20.0,165.0,63.0,Some HS,married,"once did, not now"
+121,,4,31.0,132.0,68.0,HS,married,never
+150,292.0,1,26.0,124.0,64.0,Some College,married,never
+94,264.0,0,26.0,135.0,64.0,HS,married,never
+120,280.0,2,29.0,,,Some College,married,smokes now
+146,306.0,3,38.0,112.0,63.0,Some College,married,never
+129,274.0,1,19.0,101.0,65.0,Some HS,married,smokes now
+125,292.0,1,27.0,117.0,65.0,Some College,married,smokes now
+124,273.0,1,21.0,115.0,63.0,HS,married,never
+141,282.0,2,27.0,115.0,63.0,Some College,married,never
+96,266.0,1,33.0,135.0,67.0,College,married,smokes now
+138,297.0,1,30.0,133.0,66.0,Some College,married,smokes now
+127,282.0,3,28.0,134.0,67.0,HS,married,never
+114,251.0,3,26.0,119.0,64.0,HS,married,smokes now
+103,297.0,3,31.0,125.0,64.0,HS,married,never
+127,288.0,0,20.0,115.0,65.0,HS,married,smokes now
+141,292.0,2,29.0,110.0,62.0,HS,married,
+113,274.0,3,23.0,108.0,63.0,HS,married,smokes now
+99,249.0,0,31.0,98.0,57.0,,married,smokes now
+97,279.0,3,33.0,105.0,61.0,Some College,married,smokes now
+116,275.0,0,20.0,145.0,68.0,HS,married,never
+126,297.0,6,26.0,120.0,66.0,Some HS,married,smokes now
+158,296.0,4,28.0,140.0,66.0,Some College,married,
+119,277.0,2,28.0,130.0,66.0,College,married,smokes now
+123,283.0,1,27.0,110.0,62.0,HS,married,never
+129,287.0,3,24.0,107.0,60.0,HS,married,never
+117,256.0,3,37.0,132.0,65.0,HS,married,smokes now
+100,275.0,3,26.0,115.0,60.0,HS,married,until current pregancy
+131,274.0,4,28.0,118.0,64.0,HS,married,smokes now
+146,279.0,1,27.0,124.0,64.0,College,married,until current pregancy
+84,267.0,1,29.0,95.0,60.0,Some College,married,never
+115,302.0,1,28.0,116.0,64.0,HS,married,never
+115,281.0,5,25.0,94.0,60.0,HS,married,never
+118,284.0,4,28.0,145.0,70.0,HS,married,smokes now
+91,292.0,0,19.0,125.0,61.0,HS,married,never
+112,255.0,9,39.0,115.0,60.0,No HS,married,"once did, not now"
+115,316.0,0,29.0,110.0,64.0,College,married,"once did, not now"
+110,269.0,2,38.0,102.0,61.0,College,married,never
+117,277.0,2,34.0,140.0,66.0,College,married,never
+109,268.0,0,29.0,120.0,65.0,HS,married,smokes now
+99,267.0,1,22.0,94.0,62.0,HS,married,never
+131,274.0,2,27.0,160.0,62.0,HS,married,smokes now
+136,291.0,0,25.0,105.0,61.0,Some College,married,never
+130,298.0,1,20.0,120.0,62.0,HS,married,until current pregancy
+134,296.0,5,35.0,117.0,60.0,College,married,smokes now
+128,271.0,2,29.0,126.0,65.0,Some College,married,smokes now
+150,286.0,3,38.0,175.0,67.0,Some College,married,never
+86,284.0,7,39.0,174.0,65.0,Some HS,married,smokes now
+115,278.0,1,26.0,112.0,63.0,Some College,married,smokes now
+141,281.0,1,28.0,,,Some College,married,smokes now
+78,237.0,0,23.0,144.0,63.0,Some College,married,until current pregancy
+100,295.0,0,21.0,125.0,68.0,HS,married,smokes now
+116,270.0,1,25.0,169.0,68.0,College,married,never
+110,271.0,0,26.0,135.0,66.0,Some College,married,until current pregancy
+109,283.0,4,34.0,120.0,64.0,HS,married,never
+113,259.0,1,38.0,128.0,64.0,,married,never
+136,297.0,0,23.0,135.0,66.0,College,married,never
+114,,2,23.0,116.0,63.0,Some College,married,smokes now
+121,273.0,0,34.0,125.0,61.0,HS,married,never
+117,288.0,0,28.0,140.0,63.0,College,never married,until current pregancy
+166,299.0,2,26.0,140.0,68.0,College,married,never
+87,229.0,2,27.0,138.0,62.0,HS,married,until current pregancy
+120,294.0,0,23.0,128.0,66.0,Some College,married,smokes now
+95,286.0,1,26.0,118.0,66.0,HS,married,smokes now
+132,273.0,1,28.0,113.0,62.0,Some College,married,never
+90,286.0,1,32.0,105.0,63.0,College,married,smokes now
+131,308.0,2,30.0,150.0,58.0,HS,married,smokes now
+103,279.0,0,22.0,145.0,65.0,College,never married,smokes now
+144,287.0,0,33.0,153.0,71.0,Some College,married,smokes now
+137,299.0,2,24.0,115.0,62.0,HS,married,until current pregancy
+124,270.0,1,20.0,122.0,64.0,HS,married,never
+136,281.0,0,27.0,127.0,64.0,Some College,married,never
+117,298.0,0,22.0,160.0,64.0,HS,married,until current pregancy
+121,269.0,1,23.0,130.0,62.0,HS,married,never
+116,280.0,5,34.0,198.0,68.0,Some College,married,never
+139,275.0,2,33.0,118.0,62.0,College,married,never
+110,280.0,3,39.0,125.0,67.0,No HS,married,never
+86,242.0,1,20.0,110.0,64.0,HS,married,smokes now
+133,287.0,1,20.0,165.0,65.0,HS,married,never
+81,254.0,1,23.0,157.0,62.0,HS,married,never
+133,281.0,5,33.0,120.0,63.0,HS,married,"once did, not now"
+132,284.0,0,20.0,140.0,66.0,Some College,married,never
+132,287.0,3,29.0,148.0,64.0,Some College,married,never
+137,274.0,1,27.0,126.0,64.0,College,married,"once did, not now"
+84,279.0,4,34.0,190.0,63.0,HS,married,never
+136,279.0,3,30.0,130.0,69.0,Some College,married,smokes now
+92,270.0,2,34.0,100.0,62.0,College,married,smokes now
+114,298.0,0,28.0,114.0,67.0,Some College,married,never
+129,274.0,3,33.0,136.0,69.0,Some College,married,smokes now
+167,288.0,0,19.0,117.0,63.0,Some HS,married,never
+71,,1,19.0,120.0,64.0,Some HS,married,never
+124,282.0,0,22.0,118.0,65.0,College,married,never
+105,269.0,2,27.0,100.0,62.0,College,married,smokes now
+155,283.0,0,19.0,137.0,70.0,Some HS,married,until current pregancy
+125,279.0,0,21.0,126.0,66.0,Some College,married,never
+125,266.0,1,21.0,120.0,62.0,HS,married,smokes now
+125,283.0,0,22.0,96.0,59.0,College,married,never
+115,315.0,0,22.0,110.0,62.0,Some College,married,until current pregancy
+174,288.0,2,25.0,182.0,61.0,Some College,married,never
+127,290.0,2,35.0,122.0,66.0,Some College,married,never
+113,262.0,1,24.0,105.0,60.0,Some HS,married,never
+115,273.0,1,22.0,130.0,66.0,HS,married,smokes now
+139,277.0,5,35.0,140.0,63.0,Some College,married,never
+127,275.0,1,26.0,125.0,62.0,HS,married,never
+111,289.0,3,26.0,,,HS,married,smokes now
+112,272.0,3,26.0,98.0,60.0,Some HS,married,never
+143,285.0,1,30.0,135.0,64.0,HS,married,smokes now
+116,286.0,0,22.0,105.0,58.0,HS,married,smokes now
+155,279.0,3,33.0,125.0,61.0,HS,married,never
+121,290.0,1,31.0,127.0,64.0,College,married,never
+110,282.0,0,21.0,125.0,66.0,HS,married,smokes now
+87,277.0,4,31.0,120.0,62.0,HS,married,smokes now
+132,330.0,1,34.0,130.0,64.0,Some College,married,smokes now
+105,261.0,3,32.0,,,Some HS,married,smokes now
+129,277.0,3,24.0,142.0,68.0,HS,married,never
+123,280.0,1,20.0,105.0,62.0,HS,married,smokes now
+91,279.0,0,27.0,118.0,62.0,Some College,married,never
+147,286.0,4,30.0,147.0,68.0,Some College,married,"once did, not now"
+144,289.0,2,20.0,106.0,62.0,HS,married,never
+128,292.0,3,30.0,127.0,64.0,HS,married,"once did, not now"
+137,318.0,0,19.0,110.0,64.0,HS,married,until current pregancy
+104,289.0,4,24.0,104.0,60.0,Some HS,married,smokes now
+120,271.0,2,32.0,130.0,63.0,HS,married,never
+112,277.0,0,23.0,118.0,64.0,College,married,never
+138,286.0,1,26.0,111.0,63.0,Some College,married,never
+96,280.0,1,27.0,105.0,63.0,Some College,married,smokes now
+134,285.0,1,35.0,134.0,62.0,College,married,never
+126,285.0,1,24.0,140.0,64.0,HS,married,never
+112,300.0,1,29.0,121.0,62.0,Some College,married,"once did, not now"
+138,313.0,0,27.0,111.0,65.0,College,married,never
+110,275.0,2,25.0,120.0,63.0,Some HS,married,never
+83,253.0,1,29.0,110.0,63.0,College,married,smokes now
+112,288.0,0,20.0,110.0,62.0,HS,married,never
+148,286.0,2,38.0,160.0,68.0,College,married,"once did, not now"
+119,300.0,0,34.0,124.0,63.0,College,married,until current pregancy
+86,246.0,1,25.0,113.0,64.0,Some College,married,smokes now
+110,269.0,2,38.0,145.0,63.0,College,married,smokes now
+126,282.0,3,23.0,120.0,61.0,HS,married,never
+125,272.0,1,30.0,96.0,60.0,Some College,married,never
+136,252.0,2,27.0,130.0,63.0,HS,married,never
+127,283.0,0,29.0,119.0,64.0,College,married,"once did, not now"
+84,272.0,3,25.0,150.0,64.0,Some HS,married,smokes now
+131,278.0,3,22.0,124.0,66.0,Some College,married,never
+123,286.0,0,21.0,130.0,67.0,HS,married,smokes now
+96,282.0,0,30.0,127.0,68.0,College,married,smokes now
+110,286.0,2,26.0,100.0,62.0,HS,married,never
+123,282.0,2,29.0,164.0,68.0,HS,married,never
+152,286.0,0,19.0,135.0,67.0,HS,married,never
+127,288.0,1,28.0,155.0,65.0,HS,married,never
+117,269.0,0,21.0,149.0,64.0,HS,married,smokes now
+125,277.0,2,29.0,139.0,66.0,Some College,married,smokes now
+139,273.0,2,29.0,130.0,68.0,College,married,never
+114,280.0,2,31.0,134.0,66.0,Some College,married,smokes now
+96,280.0,0,34.0,127.0,62.0,College,married,smokes now
+124,289.0,3,29.0,110.0,63.0,HS,married,never
+107,272.0,3,30.0,140.0,64.0,Some College,married,smokes now
+113,277.0,3,38.0,108.0,64.0,College,divorced,never
+98,292.0,0,20.0,124.0,65.0,Some College,married,smokes now
+119,285.0,0,28.0,127.0,65.0,College,married,never
+107,268.0,3,37.0,112.0,58.0,Some HS,married,smokes now
+117,255.0,2,26.0,120.0,61.0,HS,married,never
+117,305.0,1,24.0,155.0,64.0,College,married,never
+144,276.0,1,23.0,129.0,67.0,HS,married,smokes now
+136,268.0,2,30.0,132.0,63.0,College,married,smokes now
+121,278.0,1,28.0,132.0,69.0,Some College,married,never
+165,282.0,1,29.0,145.0,66.0,College,married,never
+120,279.0,6,38.0,124.0,64.0,HS,married,never
+125,280.0,3,30.0,130.0,65.0,HS,married,smokes now
+137,285.0,1,29.0,110.0,65.0,HS,married,until current pregancy
+100,288.0,0,28.0,108.0,61.0,Some HS,married,smokes now
+134,284.0,2,28.0,112.0,62.0,HS,married,never
+88,262.0,2,20.0,118.0,65.0,Some HS,married,smokes now
+108,291.0,2,39.0,135.0,65.0,Some College,married,never
+123,271.0,3,41.0,162.0,64.0,HS,married,never
+141,277.0,3,38.0,162.0,66.0,Some College,married,never
+130,270.0,0,19.0,130.0,66.0,Some College,married,never
+139,299.0,0,20.0,112.0,67.0,HS,married,never
+130,283.0,3,32.0,118.0,65.0,HS,married,never
+113,289.0,0,26.0,91.0,59.0,Some College,married,never
+77,238.0,0,23.0,103.0,63.0,Some College,married,smokes now
+62,228.0,1,24.0,107.0,61.0,Some College,married,until current pregancy
+93,245.0,1,33.0,100.0,61.0,HS,married,smokes now
+109,275.0,0,37.0,112.0,63.0,HS,married,smokes now
+145,283.0,5,27.0,125.0,65.0,Some HS,married,smokes now
+92,224.0,2,19.0,134.0,63.0,Some HS,married,smokes now
+120,281.0,1,26.0,115.0,61.0,HS,married,never
+135,284.0,1,39.0,141.0,67.0,Some HS,married,"once did, not now"
+113,287.0,4,36.0,118.0,63.0,College,married,"once did, not now"
+126,251.0,0,28.0,123.0,64.0,College,married,never
+143,270.0,0,27.0,148.0,70.0,College,married,"once did, not now"
+128,282.0,0,25.0,125.0,64.0,College,married,never
+98,262.0,2,22.0,120.0,67.0,Some College,married,never
+110,306.0,0,32.0,122.0,61.0,HS,married,never
+162,284.0,4,27.0,126.0,64.0,Some HS,married,never
+116,292.0,0,20.0,118.0,65.0,HS,married,until current pregancy
+128,284.0,1,23.0,110.0,62.0,Some College,married,never
+111,275.0,0,18.0,108.0,61.0,Some HS,married,smokes now
+137,280.0,3,34.0,107.0,60.0,College,married,never
+134,278.0,2,28.0,126.0,,HS,married,smokes now
+100,264.0,2,29.0,120.0,64.0,HS,married,smokes now
+160,271.0,3,32.0,215.0,67.0,Some College,married,never
+112,267.0,0,22.0,138.0,62.0,HS,married,until current pregancy
+134,297.0,1,27.0,170.0,67.0,HS,married,smokes now
+145,308.0,2,35.0,110.0,64.0,Some HS,married,smokes now
+116,295.0,9,32.0,120.0,65.0,Some HS,married,never
+126,278.0,4,26.0,150.0,64.0,Some HS,married,smokes now
+111,285.0,2,29.0,130.0,65.0,College,married,never
+126,282.0,3,33.0,117.0,62.0,HS,married,never
+109,291.0,3,39.0,107.0,64.0,HS,married,never
+136,291.0,3,41.0,191.0,66.0,Trade,married,never
+119,286.0,4,22.0,185.0,63.0,Some HS,married,smokes now
+103,267.0,0,21.0,150.0,66.0,HS,married,smokes now
+124,284.0,0,17.0,112.0,62.0,Some HS,married,never
+155,286.0,6,31.0,127.0,66.0,Some HS,married,never
+122,282.0,0,21.0,110.0,66.0,Some College,married,"once did, not now"
+113,285.0,2,26.0,140.0,66.0,Some HS,married,"once did, not now"
+122,273.0,1,26.0,210.0,66.0,Some College,married,"once did, not now"
+126,293.0,0,27.0,111.0,62.0,College,married,never
+116,277.0,2,41.0,124.0,64.0,Trade,married,smokes now
+102,294.0,1,21.0,130.0,65.0,Some HS,married,smokes now
+110,181.0,7,27.0,133.0,64.0,Some HS,married,never
+133,285.0,0,30.0,160.0,64.0,College,married,never
+125,283.0,3,29.0,125.0,65.0,College,married,until current pregancy
+164,286.0,0,32.0,143.0,66.0,HS,married,never
+133,297.0,3,36.0,125.0,61.0,Some HS,married,never
+135,300.0,1,25.0,,64.0,College,married,never
+124,293.0,0,19.0,150.0,65.0,HS,married,never
+122,306.0,0,22.0,100.0,62.0,Some College,never married,never
+121,271.0,0,34.0,129.0,63.0,College,married,smokes now
+100,272.0,2,30.0,150.0,64.0,Some College,married,smokes now
+129,,0,19.0,110.0,61.0,HS,married,never
+90,266.0,0,26.0,135.0,67.0,Some College,married,never
+128,272.0,0,18.0,109.0,67.0,Some HS,married,never
+116,280.0,0,22.0,,59.0,Some College,married,smokes now
+86,276.0,0,23.0,125.0,65.0,HS,married,smokes now
+123,282.0,1,30.0,118.0,63.0,Some College,married,"once did, not now"
+87,275.0,3,28.0,110.0,63.0,Some College,married,smokes now
+128,291.0,0,27.0,132.0,63.0,HS,married,never
+120,288.0,1,28.0,125.0,63.0,College,married,until current pregancy
+125,301.0,0,35.0,181.0,68.0,College,married,never
+118,265.0,2,27.0,123.0,61.0,College,married,never
+116,284.0,0,24.0,117.0,66.0,College,married,never
+131,262.0,1,22.0,135.0,67.0,Some College,married,until current pregancy
+151,286.0,0,22.0,130.0,66.0,Some College,married,until current pregancy
+88,273.0,1,20.0,110.0,66.0,Some HS,married,smokes now
+137,284.0,4,30.0,110.0,67.0,Some College,legally separated,never
+127,289.0,1,23.0,140.0,67.0,College,married,until current pregancy
+96,278.0,0,18.0,120.0,60.0,Some HS,legally separated,smokes now
+129,281.0,2,31.0,155.0,67.0,HS,married,never
+128,288.0,0,26.0,114.0,65.0,College,married,"once did, not now"
+85,255.0,1,24.0,159.0,68.0,HS,married,never
+111,281.0,0,27.0,112.0,64.0,College,married,never
+124,275.0,1,28.0,116.0,61.0,,married,never
+112,292.0,0,28.0,110.0,62.0,College,married,smokes now
+115,281.0,4,28.0,128.0,61.0,Some College,married,smokes now
+72,271.0,7,39.0,136.0,61.0,Some College,married,never
+122,281.0,0,24.0,137.0,65.0,Some College,never married,smokes now
+116,291.0,6,26.0,153.0,66.0,Some HS,married,never
+127,272.0,2,20.0,130.0,64.0,Some HS,married,smokes now
+90,266.0,2,23.0,99.0,61.0,Some HS,married,smokes now
+99,273.0,0,27.0,115.0,59.0,College,married,never
+144,307.0,0,26.0,125.0,66.0,College,married,never
+138,280.0,0,30.0,175.0,65.0,Some HS,married,"once did, not now"
+58,245.0,6,34.0,156.0,64.0,Some College,married,smokes now
+109,265.0,0,24.0,107.0,63.0,HS,married,smokes now
+110,277.0,0,19.0,160.0,62.0,Some College,married,never
+129,278.0,1,27.0,128.0,63.0,Some College,married,never
+150,284.0,4,40.0,130.0,67.0,Some HS,married,never
+128,279.0,2,27.0,135.0,66.0,HS,married,never
+142,284.0,0,31.0,137.0,66.0,College,married,smokes now
+115,268.0,0,31.0,125.0,64.0,Some College,married,"once did, not now"
+108,274.0,3,28.0,175.0,66.0,Some HS,married,
+108,283.0,1,35.0,108.0,62.0,Some College,married,never
+139,281.0,2,27.0,137.0,63.0,Some College,married,never
+115,275.0,3,25.0,155.0,61.0,Some HS,married,smokes now
+136,288.0,1,23.0,217.0,62.0,HS,married,until current pregancy
+163,289.0,0,25.0,126.0,64.0,Some College,married,smokes now
+131,285.0,3,26.0,130.0,64.0,HS,married,never
+77,238.0,3,38.0,135.0,67.0,HS,married,smokes now
+124,283.0,0,33.0,156.0,67.0,College,married,smokes now
+104,270.0,0,26.0,115.0,62.0,College,married,never
+102,267.0,0,24.0,109.0,61.0,HS,married,smokes now
+94,268.0,4,30.0,105.0,62.0,Some HS,married,smokes now
+158,295.0,0,37.0,137.0,70.0,Some College,married,"once did, not now"
+112,275.0,0,21.0,143.0,68.0,HS,married,smokes now
+119,286.0,2,26.0,123.0,64.0,College,married,smokes now
+97,279.0,5,29.0,178.0,68.0,Some HS,married,smokes now
+99,252.0,1,21.0,120.0,64.0,HS,married,until current pregancy
+115,264.0,0,23.0,134.0,67.0,Some College,married,smokes now
+139,284.0,9,37.0,121.0,61.0,Trade,married,never
+144,304.0,0,27.0,102.0,58.0,No HS,married,smokes now
+99,270.0,1,22.0,115.0,63.0,Some HS,married,smokes now
+105,280.0,0,22.0,116.0,63.0,College,married,until current pregancy
+89,275.0,2,34.0,170.0,66.0,Trade,divorced,never
+129,270.0,10,43.0,160.0,67.0,No HS,married,never
+119,270.0,0,20.0,109.0,64.0,HS,married,"once did, not now"
+114,291.0,5,35.0,112.0,60.0,HS,married,never
+106,289.0,1,28.0,120.0,67.0,College,married,smokes now
+122,292.0,0,34.0,133.0,65.0,HS,married,until current pregancy
+136,261.0,1,24.0,110.0,65.0,Some HS,married,never
+121,286.0,0,22.0,130.0,69.0,Some HS,married,smokes now
+112,282.0,2,26.0,122.0,65.0,HS,married,until current pregancy
+112,266.0,2,26.0,122.0,64.0,Some College,married,never
+123,314.0,1,22.0,121.0,61.0,Some HS,married,smokes now
+139,286.0,1,33.0,125.0,65.0,HS,married,smokes now
+125,290.0,3,36.0,105.0,59.0,HS,married,never
+105,295.0,0,20.0,112.0,64.0,HS,married,smokes now
+130,276.0,6,41.0,130.0,68.0,Some College,married,never
+146,294.0,2,22.0,145.0,66.0,Some HS,married,smokes now
+133,290.0,1,21.0,145.0,64.0,HS,married,never
+147,296.0,0,19.0,124.0,67.0,HS,married,never
+109,269.0,1,23.0,113.0,63.0,Trade,married,never
+122,286.0,2,23.0,120.0,64.0,HS,married,smokes now
+135,260.0,4,43.0,135.0,65.0,Trade,married,never
+107,,1,19.0,118.0,60.0,Some HS,married,never
+117,272.0,4,32.0,118.0,66.0,Some College,married,never
+138,284.0,3,30.0,133.0,66.0,Some College,married,smokes now
+120,283.0,2,28.0,122.0,64.0,HS,married,smokes now
+119,273.0,2,35.0,125.0,65.0,HS,married,smokes now
+118,278.0,0,19.0,126.0,62.0,HS,married,never
+105,330.0,3,23.0,112.0,64.0,HS,married,smokes now
+113,306.0,0,21.0,137.0,65.0,Some College,married,never
+136,,13,36.0,135.0,66.0,HS,married,never
+148,291.0,0,21.0,115.0,63.0,HS,married,never
+140,281.0,0,22.0,135.0,69.0,Some College,married,never
+134,287.0,0,33.0,131.0,67.0,Some College,married,never
+120,280.0,2,31.0,111.0,61.0,HS,married,never
+123,296.0,0,26.0,110.0,64.0,College,married,smokes now
+102,275.0,2,43.0,160.0,64.0,HS,married,never
+55,204.0,11,35.0,140.0,65.0,Trade,married,never
+103,276.0,0,19.0,149.0,63.0,HS,married,smokes now
+123,283.0,2,21.0,110.0,65.0,HS,married,never
+105,270.0,0,27.0,134.0,65.0,College,married,smokes now
+138,289.0,3,33.0,155.0,65.0,College,married,"once did, not now"
+128,281.0,3,28.0,150.0,63.0,Trade,married,never
+139,285.0,3,30.0,129.0,65.0,Some HS,married,smokes now
+104,288.0,0,27.0,122.0,61.0,HS,married,smokes now
+159,296.0,0,27.0,112.0,64.0,Trade,married,"once did, not now"
+118,276.0,3,29.0,130.0,62.0,HS,married,smokes now
+99,285.0,2,25.0,128.0,69.0,HS,married,smokes now
+144,281.0,1,20.0,120.0,63.0,HS,married,never
+121,270.0,2,25.0,108.0,62.0,HS,married,smokes now
+117,265.0,0,24.0,98.0,66.0,Some College,married,never
+119,293.0,0,23.0,127.0,65.0,Some College,married,"once did, not now"
+105,281.0,0,19.0,130.0,61.0,HS,married,"once did, not now"
+125,283.0,6,37.0,145.0,63.0,Trade,married,smokes now
+119,259.0,6,37.0,130.0,62.0,Some HS,married,never
+101,273.0,5,39.0,113.0,60.0,HS,married,never
+105,277.0,0,25.0,156.0,64.0,HS,married,never
+110,281.0,1,27.0,110.0,60.0,Trade,married,never
+100,270.0,0,21.0,132.0,65.0,Some College,married,smokes now
+98,284.0,1,29.0,140.0,68.0,College,married,never
+127,276.0,8,37.0,159.0,64.0,Some HS,married,never
+117,324.0,1,22.0,164.0,62.0,Some HS,married,smokes now
+122,278.0,1,37.0,114.0,68.0,,married,"once did, not now"
+122,273.0,0,23.0,130.0,64.0,Some College,married,smokes now
+118,281.0,0,36.0,140.0,66.0,Some HS,married,smokes now
+137,303.0,0,23.0,127.0,66.0,College,married,smokes now
+120,275.0,2,32.0,115.0,63.0,College,married,smokes now
+143,285.0,2,27.0,185.0,68.0,Some College,married,never
+108,270.0,2,29.0,124.0,67.0,HS,married,smokes now
+131,284.0,0,19.0,114.0,61.0,HS,married,smokes now
+110,277.0,2,36.0,116.0,61.0,College,married,never
+105,276.0,1,20.0,112.0,62.0,HS,married,smokes now
+133,274.0,1,30.0,,63.0,HS,married,until current pregancy
+125,255.0,2,23.0,133.0,63.0,Some College,married,"once did, not now"
+78,258.0,0,24.0,115.0,66.0,Some College,married,smokes now
+114,289.0,3,36.0,115.0,60.0,College,married,never
+111,278.0,1,29.0,145.0,65.0,Some College,married,smokes now
+103,250.0,5,40.0,140.0,59.0,Some HS,married,never
+114,276.0,1,26.0,127.0,62.0,Some College,married,until current pregancy
+75,247.0,9,36.0,120.0,64.0,Some HS,married,smokes now
+169,296.0,2,33.0,185.0,67.0,Some HS,married,never
+94,271.0,4,36.0,130.0,61.0,Some HS,married,smokes now
+150,287.0,6,36.0,135.0,62.0,HS,married,never
+144,248.0,1,30.0,145.0,70.0,HS,married,"once did, not now"
+144,291.0,1,28.0,130.0,67.0,HS,married,never
+143,313.0,1,20.0,150.0,68.0,HS,married,never
+145,304.0,0,25.0,109.0,63.0,HS,married,smokes now
+121,285.0,2,34.0,110.0,64.0,College,married,never
+105,256.0,3,31.0,142.0,66.0,College,married,until current pregancy
+134,286.0,1,25.0,125.0,64.0,College,married,never
+129,294.0,0,21.0,132.0,65.0,Some College,married,never
+114,276.0,1,24.0,110.0,63.0,Some College,married,never
+97,265.0,2,30.0,110.0,61.0,HS,married,"once did, not now"
+160,292.0,2,28.0,120.0,64.0,College,married,never
+65,237.0,3,31.0,130.0,67.0,Some College,married,"once did, not now"
+145,288.0,3,28.0,116.0,64.0,Some College,married,never
+95,273.0,1,23.0,90.0,60.0,Some College,married,never
+139,293.0,0,21.0,130.0,69.0,Some College,married,never
+123,288.0,1,27.0,125.0,63.0,College,married,never
+109,283.0,1,23.0,112.0,65.0,HS,married,smokes now
+110,268.0,2,34.0,127.0,64.0,Some College,married,never
+122,296.0,0,24.0,132.0,65.0,College,married,never
+115,307.0,3,34.0,128.0,65.0,College,married,smokes now
+117,323.0,2,26.0,,62.0,Some HS,married,until current pregancy
+108,279.0,0,19.0,115.0,64.0,HS,married,never
+120,287.0,2,23.0,116.0,67.0,HS,married,smokes now
+131,269.0,3,36.0,145.0,68.0,HS,married,never
+136,283.0,0,24.0,119.0,63.0,College,married,never
+125,290.0,4,32.0,135.0,63.0,HS,married,never
+96,285.0,0,20.0,117.0,66.0,HS,married,smokes now
+102,282.0,0,29.0,125.0,65.0,College,married,smokes now
+102,288.0,0,18.0,117.0,65.0,HS,married,until current pregancy
+112,277.0,0,22.0,120.0,67.0,Some College,married,never
+135,272.0,2,30.0,130.0,65.0,Some College,married,never
+91,266.0,3,23.0,120.0,60.0,Some HS,married,smokes now
+129,276.0,1,31.0,125.0,63.0,College,married,"once did, not now"
+155,290.0,1,26.0,129.0,66.0,HS,married,smokes now
+109,274.0,2,33.0,144.0,69.0,HS,married,smokes now
+80,262.0,0,31.0,100.0,61.0,College,married,smokes now
+125,273.0,4,30.0,145.0,64.0,HS,married,never
+94,284.0,5,24.0,104.0,63.0,HS,married,smokes now
+148,281.0,2,27.0,110.0,63.0,HS,married,smokes now
+73,277.0,1,29.0,145.0,65.0,HS,married,never
+123,267.0,0,19.0,132.0,66.0,Some HS,married,smokes now
+65,232.0,1,24.0,125.0,66.0,Trade,married,smokes now
+118,279.0,0,21.0,108.0,64.0,HS,married,never
+102,283.0,2,39.0,119.0,60.0,HS,married,never
+120,280.0,3,24.0,118.0,61.0,HS,married,"once did, not now"
+108,270.0,0,21.0,130.0,65.0,Some College,married,smokes now
+122,280.0,0,45.0,128.0,62.0,Some College,married,never
+103,268.0,4,32.0,97.0,62.0,HS,legally separated,smokes now
+105,312.0,5,41.0,115.0,61.0,No HS,married,smokes now
+126,273.0,0,25.0,135.0,68.0,College,married,never
+145,316.0,2,22.0,142.0,67.0,Some HS,married,"once did, not now"
+139,293.0,1,34.0,131.0,66.0,HS,married,until current pregancy
+124,290.0,1,26.0,165.0,65.0,Some College,married,never
+121,282.0,3,30.0,122.0,65.0,Some HS,married,never
+126,299.0,0,21.0,114.0,60.0,HS,married,never
+119,286.0,0,33.0,137.0,67.0,College,legally separated,until current pregancy
+114,277.0,0,19.0,107.0,63.0,HS,married,never
+118,272.0,1,23.0,113.0,64.0,HS,married,never
+127,295.0,6,36.0,145.0,65.0,Some College,married,never
+117,290.0,0,22.0,110.0,67.0,HS,married,never
+137,277.0,4,41.0,126.0,65.0,College,married,never
+133,292.0,4,29.0,135.0,65.0,Some College,married,never
+100,264.0,3,28.0,111.0,60.0,HS,married,smokes now
+107,273.0,0,26.0,135.0,65.0,Some College,married,never
+115,276.0,0,20.0,105.0,62.0,Some College,married,smokes now
+91,292.0,0,26.0,113.0,61.0,HS,married,smokes now
+112,287.0,1,27.0,110.0,64.0,College,married,smokes now
+125,289.0,0,31.0,120.0,61.0,College,married,never
+157,291.0,6,33.0,121.0,65.0,HS,married,until current pregancy
+108,256.0,0,26.0,130.0,67.0,College,married,never
+130,279.0,5,31.0,122.0,62.0,HS,married,never
+135,289.0,4,25.0,127.0,64.0,HS,married,never
+123,277.0,1,24.0,122.0,66.0,Some College,married,never
+100,281.0,2,24.0,115.0,61.0,HS,married,never
+124,277.0,0,23.0,104.0,64.0,HS,married,never
+174,284.0,7,39.0,163.0,65.0,HS,legally separated,never
+129,278.0,3,26.0,146.0,67.0,Some College,married,never
+119,275.0,1,27.0,113.0,59.0,HS,married,smokes now
+126,272.0,0,35.0,120.0,61.0,HS,married,smokes now
+128,267.0,4,37.0,142.0,61.0,Trade,married,never
+116,282.0,0,19.0,124.0,64.0,Some HS,married,until current pregancy
+100,285.0,1,18.0,127.0,68.0,Some HS,married,smokes now
+96,285.0,2,37.0,135.0,66.0,College,married,smokes now
+131,279.0,0,20.0,122.0,68.0,Some College,married,smokes now
+110,292.0,2,35.0,127.0,62.0,Some College,married,"once did, not now"
+108,278.0,3,28.0,125.0,63.0,HS,married,smokes now
+129,275.0,1,24.0,135.0,65.0,HS,divorced,never
+141,285.0,1,23.0,150.0,67.0,Some College,married,never
+110,276.0,5,31.0,155.0,70.0,Some College,married,never
+118,273.0,2,21.0,120.0,63.0,Some HS,married,until current pregancy
+111,267.0,0,24.0,115.0,60.0,Some College,married,until current pregancy
+160,297.0,1,20.0,136.0,68.0,Some HS,married,"once did, not now"
+120,280.0,1,30.0,115.0,60.0,HS,married,never
+121,281.0,3,29.0,108.0,63.0,Trade,married,until current pregancy
+113,282.0,2,30.0,118.0,64.0,Trade,married,smokes now
+117,270.0,2,23.0,115.0,58.0,Some HS,married,until current pregancy
+158,267.0,1,35.0,125.0,64.0,HS,married,never
+128,277.0,2,39.0,120.0,61.0,HS,married,never
+158,289.0,3,30.0,140.0,66.0,Some College,married,never
+133,289.0,1,22.0,123.0,65.0,Some HS,legally separated,smokes now
+163,298.0,3,37.0,98.0,61.0,HS,married,until current pregancy
+128,282.0,0,19.0,118.0,66.0,Some College,married,never
+126,271.0,0,21.0,105.0,60.0,Some College,married,until current pregancy
+127,283.0,5,42.0,154.0,62.0,Some HS,married,smokes now
+134,287.0,5,40.0,118.0,63.0,HS,married,never
+140,274.0,5,41.0,122.0,63.0,Some College,married,never
+102,285.0,2,29.0,117.0,63.0,HS,married,smokes now
+100,252.0,1,24.0,150.0,61.0,HS,married,never
+120,295.0,3,29.0,100.0,59.0,Some HS,married,smokes now
+98,279.0,0,18.0,115.0,65.0,Some HS,married,smokes now
+130,246.0,1,19.0,118.0,62.0,HS,married,never
+104,280.0,1,41.0,118.0,63.0,College,married,smokes now
+122,285.0,1,31.0,102.0,62.0,Some College,married,smokes now
+137,276.0,0,25.0,127.0,64.0,College,married,never
+114,285.0,0,20.0,104.0,61.0,HS,married,never
+63,236.0,0,24.0,99.0,58.0,College,married,never
+98,318.0,1,23.0,107.0,63.0,Some College,married,never
+99,268.0,2,32.0,124.0,63.0,Some College,married,smokes now
+89,238.0,0,26.0,136.0,64.0,HS,never married,never
+117,283.0,1,22.0,142.0,65.0,HS,married,smokes now
+143,281.0,5,29.0,132.0,67.0,HS,married,never
+106,279.0,3,29.0,125.0,63.0,HS,married,smokes now
+99,246.0,2,35.0,106.0,62.0,Trade,married,never
+156,300.0,4,27.0,120.0,65.0,HS,married,smokes now
+72,266.0,0,25.0,200.0,66.0,Some HS,married,smokes now
+75,266.0,3,37.0,113.0,61.0,Trade,married,smokes now
+97,285.0,2,35.0,112.0,61.0,Some College,married,smokes now
+106,264.0,5,41.0,114.0,64.0,HS,married,until current pregancy
+91,225.0,1,18.0,117.0,68.0,Some HS,married,smokes now
+117,269.0,0,28.0,99.0,61.0,College,married,never
+117,284.0,1,25.0,177.0,66.0,College,married,smokes now
+112,291.0,3,23.0,145.0,66.0,Some HS,married,never
+112,270.0,1,29.0,124.0,61.0,College,married,never
+141,293.0,4,28.0,125.0,61.0,HS,married,until current pregancy
+131,259.0,1,19.0,134.0,63.0,Some HS,married,never
+130,290.0,1,19.0,123.0,65.0,HS,married,smokes now
+132,270.0,2,26.0,140.0,67.0,HS,married,never
+114,265.0,1,23.0,130.0,67.0,HS,married,smokes now
+160,291.0,3,34.0,110.0,64.0,Some HS,married,smokes now
+106,283.0,2,24.0,119.0,63.0,Some College,married,until current pregancy
+84,260.0,0,20.0,104.0,64.0,HS,married,smokes now
+112,268.0,0,25.0,103.0,59.0,College,married,until current pregancy
+139,311.0,4,37.0,135.0,66.0,HS,married,never
+104,267.0,7,30.0,180.0,63.0,Trade,married,never
+130,294.0,4,32.0,110.0,63.0,HS,married,smokes now
+71,254.0,2,19.0,145.0,61.0,Some HS,married,smokes now
+82,270.0,2,21.0,150.0,65.0,Some HS,married,smokes now
+119,280.0,0,21.0,128.0,64.0,Trade,married,never
+123,353.0,1,26.0,115.0,63.0,HS,married,never
+115,278.0,1,27.0,95.0,59.0,Some College,married,never
+124,289.0,0,21.0,145.0,67.0,Trade,married,smokes now
+138,292.0,1,25.0,130.0,65.0,Trade,married,smokes now
+88,276.0,5,25.0,103.0,63.0,Some HS,married,smokes now
+146,305.0,2,23.0,,,Some College,married,"once did, not now"
+128,241.0,0,17.0,126.0,64.0,Some HS,married,never
+82,274.0,1,31.0,101.0,64.0,Some College,married,smokes now
+100,274.0,2,24.0,113.0,63.0,Some College,married,"once did, not now"
+114,271.0,5,32.0,130.0,61.0,College,married,never
+97,269.0,1,20.0,137.0,65.0,HS,married,smokes now
+126,298.0,1,24.0,112.0,61.0,No HS,married,never
+122,275.0,0,20.0,127.0,65.0,Trade,married,"once did, not now"
+152,295.0,1,39.0,140.0,62.0,HS,married,never
+116,274.0,1,21.0,110.0,62.0,HS,married,smokes now
+132,302.0,6,36.0,145.0,63.0,Some HS,married,smokes now
+84,260.0,0,37.0,140.0,66.0,College,married,"once did, not now"
+119,277.0,0,18.0,89.0,61.0,Some HS,married,smokes now
+104,275.0,2,24.0,,,Some College,married,never
+106,312.0,6,24.0,135.0,62.0,Some HS,married,smokes now
+124,,0,39.0,228.0,65.0,HS,married,never
+139,291.0,1,24.0,160.0,65.0,HS,married,never
+103,273.0,6,36.0,158.0,65.0,Some HS,married,smokes now
+112,299.0,1,24.0,145.0,67.0,Some HS,legally separated,smokes now
+96,276.0,2,33.0,127.0,64.0,College,married,smokes now
+102,281.0,0,19.0,135.0,67.0,Some HS,legally separated,smokes now
+120,300.0,9,34.0,150.0,63.0,HS,married,smokes now
+102,338.0,2,19.0,170.0,64.0,Some HS,married,never
+97,255.0,0,22.0,107.0,63.0,HS,married,smokes now
+113,285.0,1,22.0,145.0,70.0,Some College,married,"once did, not now"
+130,297.0,4,32.0,130.0,58.0,HS,married,never
+97,260.0,0,25.0,115.0,63.0,College,married,smokes now
+116,273.0,4,31.0,120.0,61.0,College,married,never
+114,266.0,1,29.0,113.0,64.0,HS,married,never
+127,242.0,1,17.0,135.0,61.0,Some HS,married,smokes now
+87,247.0,0,18.0,125.0,66.0,Some HS,married,smokes now
+141,281.0,6,29.0,156.0,54.0,HS,married,smokes now
+144,283.0,0,25.0,140.0,66.0,HS,married,"once did, not now"
+116,273.0,5,33.0,130.0,66.0,Some College,married,smokes now
+75,265.0,1,21.0,103.0,65.0,Some HS,married,smokes now
+138,286.0,0,28.0,120.0,68.0,HS,married,until current pregancy
+99,271.0,4,39.0,151.0,69.0,Some HS,married,"once did, not now"
+118,293.0,1,21.0,103.0,63.0,HS,married,never
+152,267.0,3,28.0,119.0,,HS,married,smokes now
+97,266.0,4,24.0,109.0,62.0,Some HS,married,never
+146,319.0,2,28.0,145.0,66.0,HS,married,never
+81,285.0,2,19.0,150.0,63.0,Some HS,married,smokes now
+110,321.0,2,28.0,180.0,66.0,HS,married,never
+135,284.0,0,19.0,95.0,60.0,HS,married,never
+114,290.0,0,21.0,120.0,65.0,Some College,married,smokes now
+124,288.0,0,21.0,116.0,64.0,Some College,married,smokes now
+115,262.0,0,23.0,136.0,64.0,HS,married,smokes now
+143,281.0,4,28.0,135.0,65.0,Some HS,married,smokes now
+113,287.0,0,29.0,145.0,70.0,College,married,smokes now
+109,244.0,0,21.0,102.0,63.0,Trade,married,smokes now
+103,278.0,2,30.0,87.0,60.0,Some HS,married,smokes now
+118,276.0,1,34.0,116.0,64.0,Some College,married,never
+127,290.0,2,27.0,121.0,65.0,Some College,married,"once did, not now"
+132,270.0,3,27.0,126.0,65.0,HS,married,"once did, not now"
+113,275.0,0,27.0,100.0,60.0,College,married,never
+128,265.0,1,24.0,120.0,67.0,College,married,never
+130,291.0,4,30.0,150.0,65.0,HS,married,smokes now
+125,281.0,0,21.0,110.0,65.0,Some College,married,never
+117,297.0,4,38.0,129.0,65.0,Some College,married,never
