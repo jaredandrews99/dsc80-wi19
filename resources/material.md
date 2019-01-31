@@ -55,4 +55,4 @@ Chapters 4/5/6](https://www.textbook.ds100.org/)
   - [Missing Data Imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf) -- sections 25.0 - 25.3
 
 * Visualization:
-
+  - [DS100 Textbook: Chapter 6](https://www.textbook.ds100.org/ch/06/viz_intro.html)
