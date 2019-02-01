@@ -264,7 +264,7 @@ def sd_res_missingness(stops, col):
     :Example:
     >>> stops = pd.read_csv(os.path.join('data', 'stops.test.csv'))
     >>> out = sd_res_missingness(stops, 'service_area')
-    >>> 0.1 >= out >= 0.01
+    >>> 0.4 >= out >= 0.2
     True
     """
 
